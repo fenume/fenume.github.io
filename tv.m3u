@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,Футбол 1
+http://broadcasting.cdn.contentgm.com:8080/footbal_1/video.m3u8?token=8UjWeshNwq
+#EXTINF:-1,Футбол 2
+http://broadcasting.cdn.contentgm.com:8080/footbal_2/video.m3u8?token=8UjWeshNwq
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1
+http://188.35.9.11:2025
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2
+http://188.35.9.11:2026
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3
+http://188.35.9.11:2027
+#EXTINF:-1,Матч! Футбол 1
+http://188.128.15.118:8080/play/a174
+#EXTINF:-1,Матч! Футбол 2
+http://188.128.15.118:8080/play/a175
+#EXTINF:-1,Матч! Футбол 3
+http://188.128.15.118:8080/play/a176
+#EXTINF:-1,Телеканал Футбол
+http://91.205.131.7:80/football/tracks-v1a1/index.m3u8
+#EXTINF:-1,Футбол
+http://188.128.15.118:8080/play/a222
+#EXTINF:-1,Евроспорт 1
+http://188.128.15.118:8080/play/a82
+#EXTINF:-1,Евроспорт 2
+http://188.128.15.118:8080/play/a83
+#EXTINF:-1,Eurosport 1 HD
+http://212.112.101.69:8081/stream44/output.m3u8
+#EXTINF:-1,Eurosport 2
+http://tvport.it-tele.net:8000/440f706cdc90fc2a7b78e72a6d318ad9
+#EXTINF:-1,Viasat Sport
+http://188.128.15.118:8080/play/a34
+#EXTINF:-1,Viasat Sport
+http://212.112.101.69:8081/stream55/output.m3u8
