@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Футбол 1
-http://broadcasting.cdn.contentgm.com:8080/footbal_1/video.m3u8?token=8UjWeshNwq
-#EXTINF:-1,Футбол 2
-http://broadcasting.cdn.contentgm.com:8080/footbal_2/video.m3u8?token=8UjWeshNwq
-#EXTINF:-1,МАТЧ! ФУТБОЛ 1
-http://188.35.9.11:2025
-#EXTINF:-1,МАТЧ! ФУТБОЛ 2
-http://188.35.9.11:2026
-#EXTINF:-1,МАТЧ! ФУТБОЛ 3
-http://188.35.9.11:2027
-#EXTINF:-1,Eurosport 1 HD
-http://212.112.101.69:8081/stream44/output.m3u8
-#EXTINF:-1,Viasat Sport
-http://188.128.15.118:8080/play/a34
 #EXTINF:-1,Телеканал Футбол
 http://ott-cdn.ucom.am/s41/index.m3u8
 #EXTINF:-1,Матч HD
