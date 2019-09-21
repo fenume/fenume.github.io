@@ -9,21 +9,33 @@ http://188.35.9.11:2025
 http://188.35.9.11:2026
 #EXTINF:-1,МАТЧ! ФУТБОЛ 3
 http://188.35.9.11:2027
-#EXTINF:-1,Матч! Футбол 1
-http://188.128.15.118:8080/play/a174
-#EXTINF:-1,Матч! Футбол 2
-http://188.128.15.118:8080/play/a175
-#EXTINF:-1,Матч! Футбол 3
-http://188.128.15.118:8080/play/a176
-#EXTINF:-1,Футбол
-http://188.128.15.118:8080/play/a222
-#EXTINF:-1,Евроспорт 1
-http://188.128.15.118:8080/play/a82
-#EXTINF:-1,Евроспорт 2
-http://188.128.15.118:8080/play/a83
 #EXTINF:-1,Eurosport 1 HD
 http://212.112.101.69:8081/stream44/output.m3u8
-#EXTINF:-1,Eurosport 2
-http://tvport.it-tele.net:8000/440f706cdc90fc2a7b78e72a6d318ad9
 #EXTINF:-1,Viasat Sport
 http://188.128.15.118:8080/play/a34
+#EXTINF:-1,Телеканал Футбол
+http://ott-cdn.ucom.am/s41/index.m3u8
+#EXTINF:-1,Матч HD
+http://188.128.15.118:8080/play/a163
+#EXTINF:-1,Матч! HD
+http://188.35.9.5:10007/stolen/196k/parasite.install
+#EXTINF:-1,Setanta Sports
+http://92.43.140.204:80/s81/index.m3u8
+#EXTINF:-1,Eurosport 2
+http://2.60.22.44:1234/udp/233.7.70.14:5000
+#EXTINF:-1,Eurosport Gold
+http://79.105.67.218:5055/udp/239.4.1.149:2020
+#EXTINF:-1,Матч! Наш спорт
+http://185.3.182.189:999/udp/239.191.254.203:13343
+#EXTINF:-1,Матч!
+http://gorod.tv/s/live/3/ssiptv/0/0.m3u8
+#EXTINF:-1,Футбол 
+http://83.246.208.234:81/udp/239.54.7.153:1224
+#EXTINF:-1,Футбол 1 (Украина)
+http://50.7.244.58:8080/futbol_1/mono.m3u8
+#EXTINF:-1,Футбол 1 HD (Украина)
+http://188.35.9.11:2007
+#EXTINF:-1,Футбол 2 (Украина)
+http://50.7.244.58:8080/futbol_2/mono.m3u8
+#EXTINF:-1,Футбол 2 HD (Украина)
+http://188.35.9.11:2008
