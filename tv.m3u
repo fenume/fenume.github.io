@@ -17,3 +17,5 @@ http://188.35.9.11:2026
 http://gorod.tv/s/live/3/134.249.65.172/0/0.m3u8
 #EXTINF:-1,Футбол 
 http://83.246.208.234:81/udp/239.54.7.153:1224
+#EXTINF:-1, Setanta Sports [FHD]
+http://92.46.127.146:8080/SetantaSport/index.m3u8
