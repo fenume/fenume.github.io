@@ -1,19 +1,15 @@
 #EXTM3U
-#EXTINF:-1,Футбол 1 HD (Украина)
-http://188.35.9.11:2007
-#EXTINF:-1, Eurosport 1
-http://109.248.236.41:4433/udp/238.1.1.114:1234
-#EXTINF:-1, Eurosport 1
-http://213.174.8.7:8000/play/15/index.m3u8
-#EXTINF:-1, Eurosport 1
-http://213.174.8.7:8000/play/15/tracks-v1a1/index.m3u8
-#EXTINF:-1, Eurosport 2
-http://109.248.236.41:4433/udp/238.1.1.115:1234
-#EXTINF:-1, Матч! Футбол 2 [R]
-http://188.35.9.11:2026
-#EXTINF:-1, Матч!
-http://gorod.tv/s/live/3/134.249.65.172/0/0.m3u8
-#EXTINF:-1,Футбол 
-http://83.246.208.234:81/udp/239.54.7.153:1224
-#EXTINF:-1, Setanta Sports [FHD]
-http://92.46.127.146:8080/SetantaSport/index.m3u8
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/matchPremier.png"  group-title="ZALA",Матч! Премьер
+http://178.124.183.5/hls/HNBMWPATWZ/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/setanta.png"  group-title="ZALA",Setanta Sports HD
+http://178.124.183.5/hls/FWHTTL8YXU/variant.m3u8?version=2
+#EXTINF:0 tvg-logo="http://p.vladna.club/logo/setantaPlus.png"  group-title="ZALA",Setanta Sports+ HD
+http://178.124.183.5/hls/5T3FNFICQ4/variant.m3u8?version=2
+#EXTINF:-1,ФУТБОЛ 1 HD UA
+http://193.9.60.131:8000/play/a01n/index.m3u8
+#EXTINF:-1,ФУТБОЛ 2 HD UA
+http://193.9.60.131:8000/play/a01o/index.m3u8
+#EXTINF:-1 ,МАТЧ! ФУТБОЛ 1 HD
+http://193.9.60.131:8000/play/a004/index.m3u8
+#EXTINF:-1 ,МАТЧ! ФУТБОЛ 2 HD
+http://193.9.60.131:8000/play/a00q/index.m3u8
