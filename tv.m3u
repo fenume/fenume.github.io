@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:0,Футбол 1
+#EXTGRP:українські
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1109/index.m3u8
+#EXTINF:0,Футбол 2
+#EXTGRP:українські
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1110/index.m3u8
+#EXTINF:0,Рада
+#EXTGRP:українські
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/976/index.m3u8
 #EXTINF:0,МАТЧ! СТРАНА
 #EXTGRP:спорт
 http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/107/index.m3u8
@@ -53,4 +62,57 @@ http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2145/index.m3u8
 #EXTINF:0,СТАРТ
 #EXTGRP:спорт
 http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2154/index.m3u8
-
+#EXTINF:0,Матч! Футбол 3 HD
+#EXTGRP:HD
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/206/index.m3u8
+#EXTINF:0,Матч! Арена HD
+#EXTGRP:HD
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/207/index.m3u8
+#EXTINF:0,Матч! Футбол 2 HD
+#EXTGRP:HD
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/211/index.m3u8
+#EXTINF:0,Матч! HD
+#EXTGRP:HD
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/212/index.m3u8
+#EXTINF:0,Телеканал КХЛ HD
+#EXTGRP:HD
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/215/index.m3u8
+#EXTINF:0,МАТЧ ПРЕМЬЕР HD
+#EXTGRP:HD
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/220/index.m3u8
+#EXTINF:0,Матч! Футбол 1 HD
+#EXTGRP:HD
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/222/index.m3u8
+#EXTINF:0,Матч! Игра HD
+#EXTGRP:HD
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/225/index.m3u8
+#EXTINF:0,Eurosport 1 HD
+#EXTGRP:HD
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/228/index.m3u8
+#EXTINF:0,Eurosport 2 North-East HD
+#EXTGRP:HD
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/234/index.m3u8
+#EXTINF:0,XSPORT HD
+#EXTGRP:HD
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/996/index.m3u8
+#EXTINF:0,Setanta Sports 2
+#EXTGRP:HD
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/270/index.m3u8
+#EXTINF:0,Setanta Sports HD
+#EXTGRP:HD
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/271/index.m3u8
+#EXTINF:0,Setanta Sports Ukraine HD
+#EXTGRP:HD
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/272/index.m3u8
+#EXTINF:0,UFC ТВ
+#EXTGRP:HD
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2000/index.m3u8
+#EXTINF:0,Eurosport Gold HD
+#EXTGRP:HD
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2002/index.m3u8
+#EXTINF:0,Viasat Sport HD
+#EXTGRP:HD
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2007/index.m3u8
+#EXTINF:0,Моторспорт ТВ HD
+#EXTGRP:HD
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2146/index.m3u8
