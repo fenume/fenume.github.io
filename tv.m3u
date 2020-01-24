@@ -1,15 +1,56 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/matchPremier.png"  group-title="ZALA",Матч! Премьер
-http://178.124.183.5/hls/HNBMWPATWZ/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/setanta.png"  group-title="ZALA",Setanta Sports HD
-http://178.124.183.5/hls/FWHTTL8YXU/variant.m3u8?version=2
-#EXTINF:0 tvg-logo="http://p.vladna.club/logo/setantaPlus.png"  group-title="ZALA",Setanta Sports+ HD
-http://178.124.183.5/hls/5T3FNFICQ4/variant.m3u8?version=2
-#EXTINF:-1,ФУТБОЛ 1 HD UA
-http://193.9.60.131:8000/play/a01n/index.m3u8
-#EXTINF:-1,ФУТБОЛ 2 HD UA
-http://193.9.60.131:8000/play/a01o/index.m3u8
-#EXTINF:-1 ,МАТЧ! ФУТБОЛ 1 HD
-http://193.9.60.131:8000/play/a004/index.m3u8
-#EXTINF:-1 ,МАТЧ! ФУТБОЛ 2 HD
-http://193.9.60.131:8000/play/a00q/index.m3u8
+#EXTINF:0,МАТЧ! СТРАНА
+#EXTGRP:спорт
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/107/index.m3u8
+#EXTINF:0,Матч! Планета
+#EXTGRP:спорт
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/123/index.m3u8
+#EXTINF:0,Матч! Футбол 1
+#EXTGRP:спорт
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/124/index.m3u8
+#EXTINF:0,МАТЧ ПРЕМЬЕР
+#EXTGRP:спорт
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/531/index.m3u8
+#EXTINF:0,KHL
+#EXTGRP:спорт
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/519/index.m3u8
+#EXTINF:0,Матч! Футбол 3
+#EXTGRP:спорт
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/522/index.m3u8
+#EXTINF:0,Матч! Арена
+#EXTGRP:спорт
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/528/index.m3u8
+#EXTINF:0,Матч! Игра
+#EXTGRP:спорт
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/529/index.m3u8
+#EXTINF:0,Матч! Футбол 2
+#EXTGRP:спорт
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/530/index.m3u8
+#EXTINF:0,Матч ТВ
+#EXTGRP:спорт
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/535/index.m3u8
+#EXTINF:0,Eurosport 1
+#EXTGRP:спорт
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/141/index.m3u8
+#EXTINF:0,Extreme Sports
+#EXTGRP:спорт
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/144/index.m3u8
+#EXTINF:0,Матч! Боец
+#EXTGRP:спорт
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/150/index.m3u8
+#EXTINF:0,Viasat Sport
+#EXTGRP:спорт
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/160/index.m3u8
+#EXTINF:0,M-1 Global TV
+#EXTGRP:спорт
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/843/index.m3u8
+#EXTINF:0,Бокс ТВ
+#EXTGRP:спорт
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/870/index.m3u8
+#EXTINF:0,Моторспорт ТВ
+#EXTGRP:спорт
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2145/index.m3u8
+#EXTINF:0,СТАРТ
+#EXTGRP:спорт
+http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2154/index.m3u8
+
