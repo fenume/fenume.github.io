@@ -1,1777 +1,2325 @@
 #EXTM3U
-#EXTINF:0,РБК-ТВ
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/106/index.m3u8
-#EXTINF:0,Пятый канал
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/112/index.m3u8
-#EXTINF:0,Россия-24
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/507/index.m3u8
-#EXTINF:0,Москва 24
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/523/index.m3u8
-#EXTINF:0,BBC World News
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/545/index.m3u8
-#EXTINF:0,Мир 24
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/712/index.m3u8
-#EXTINF:0,НТВ (+2)
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/713/index.m3u8
-#EXTINF:0,Первый канал (+2)
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/714/index.m3u8
-#EXTINF:0,Санкт-Петербург
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/715/index.m3u8
-#EXTINF:0,Пятый Канал (+2)
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/746/index.m3u8
-#EXTINF:0,FRANCE 24 En
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/947/index.m3u8
-#EXTINF:0,CNBC
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/962/index.m3u8
-#EXTINF:0,Euronews
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/969/index.m3u8
-#EXTINF:0,Deutsche Welle DE
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1021/index.m3u8
-#EXTINF:0,Инфоканал
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/407/index.m3u8
-#EXTINF:0,360°
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/825/index.m3u8
-#EXTINF:0,Euronews Россия
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/828/index.m3u8
-#EXTINF:0,CGTN
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/830/index.m3u8
-#EXTINF:0,CGTN русский
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/831/index.m3u8
-#EXTINF:0,RT News
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/840/index.m3u8
-#EXTINF:0,CNN International Europe
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/842/index.m3u8
-#EXTINF:0,RT Arabic
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/862/index.m3u8
-#EXTINF:0,RT Español
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/863/index.m3u8
-#EXTINF:0,Известия
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2008/index.m3u8
-#EXTINF:0,Дождь
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2030/index.m3u8
-#EXTINF:0,Центральное телевидение
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2064/index.m3u8
-#EXTINF:0,Вместе-РФ
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2073/index.m3u8
-#EXTINF:0,RTVi
-#EXTGRP:новости
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2086/index.m3u8
-#EXTINF:0,TV 1000 Русское кино
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/101/index.m3u8
-#EXTINF:0,Ностальгия
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/102/index.m3u8
-#EXTINF:0,СТС Love
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/103/index.m3u8
-#EXTINF:0,Sony Sci-Fi
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/110/index.m3u8
-#EXTINF:0,TV 1000 Action
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/131/index.m3u8
-#EXTINF:0,Amedia 2
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/510/index.m3u8
-#EXTINF:0,TV XXI
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/525/index.m3u8
-#EXTINF:0,Русский Иллюзион
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/547/index.m3u8
-#EXTINF:0,Еврокино
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/549/index.m3u8
-#EXTINF:0,Fox Russia
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/550/index.m3u8
-#EXTINF:0,Fox Life
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/553/index.m3u8
-#EXTINF:0,Дом Кино
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/154/index.m3u8
-#EXTINF:0,Amedia 1
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/554/index.m3u8
-#EXTINF:0,Amedia Premium HD (SD)
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/555/index.m3u8
-#EXTINF:0,AMEDIA HIT
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/556/index.m3u8
-#EXTINF:0,TV 1000
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/132/index.m3u8
-#EXTINF:0,Hollywood
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/557/index.m3u8
-#EXTINF:0,Sony Entertainment Television
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/559/index.m3u8
-#EXTINF:0,2X2
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/702/index.m3u8
-#EXTINF:0,Sony Turbo
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/708/index.m3u8
-#EXTINF:0,Русский бестселлер
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/905/index.m3u8
-#EXTINF:0,Русский роман
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/906/index.m3u8
-#EXTINF:0,Русский детектив
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/907/index.m3u8
-#EXTINF:0,Любимое Кино
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/722/index.m3u8
-#EXTINF:0,КИНО ТВ
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/732/index.m3u8
-#EXTINF:0,Русская Комедия
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/733/index.m3u8
-#EXTINF:0,FAN
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/734/index.m3u8
-#EXTINF:0,НТВ‑ХИТ
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/741/index.m3u8
-#EXTINF:0,НТВ Сериал
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/744/index.m3u8
-#EXTINF:0,НСТ
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/726/index.m3u8
-#EXTINF:0,Bollywood
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/719/index.m3u8
-#EXTINF:0,ZEE TV
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1001/index.m3u8
-#EXTINF:0,Filmbox Arthouse
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1071/index.m3u8
-#EXTINF:0,Дорама
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1066/index.m3u8
-#EXTINF:0,TV1000 World Kino
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1065/index.m3u8
-#EXTINF:0,Мир Сериала
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/856/index.m3u8
-#EXTINF:0,Ретро
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2018/index.m3u8
-#EXTINF:0,Иллюзион +
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2038/index.m3u8
-#EXTINF:0,Феникс плюс Кино
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2039/index.m3u8
-#EXTINF:0,Paramount Channel
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2055/index.m3u8
-#EXTINF:0,Sony Channel HD
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2062/index.m3u8
-#EXTINF:0,Киносат
-#EXTGRP:кино
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2121/index.m3u8
-#EXTINF:0,Europa Plus TV
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/115/index.m3u8
-#EXTINF:0,МУЗ-ТВ
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/116/index.m3u8
-#EXTINF:0,BRIDGE TV Русский Хит
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/120/index.m3u8
-#EXTINF:0,Bridge TV
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/122/index.m3u8
-#EXTINF:0,MTV
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/142/index.m3u8
-#EXTINF:0,MTV Hits
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/153/index.m3u8
-#EXTINF:0,Музыка
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/155/index.m3u8
-#EXTINF:0,Mezzo Live HD
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/208/index.m3u8
-#EXTINF:0,VH1 European
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/536/index.m3u8
-#EXTINF:0,MTV Dance
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/558/index.m3u8
-#EXTINF:0,Mezzo
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/707/index.m3u8
-#EXTINF:0,ТНТ MUSIC
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/710/index.m3u8
-#EXTINF:0,BRIDGE TV DANCE
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/711/index.m3u8
-#EXTINF:0,Наше ТВ
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/721/index.m3u8
-#EXTINF:0,VH1 Classic
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/724/index.m3u8
-#EXTINF:0,Vostok TV
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1054/index.m3u8
-#EXTINF:0,MTV Rocks
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1038/index.m3u8
-#EXTINF:0,MCM Top Russia
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/836/index.m3u8
-#EXTINF:0,RU.TV
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/838/index.m3u8
-#EXTINF:0,Шансон ТВ
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/859/index.m3u8
-#EXTINF:0,VIVA TV
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/301/index.m3u8
-#EXTINF:0, Ля-минор ТВ
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2043/index.m3u8
-#EXTINF:0,Russian Music Box
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2048/index.m3u8
-#EXTINF:0,Курай TV
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2061/index.m3u8
-#EXTINF:0,о2тв
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2068/index.m3u8
-#EXTINF:0,МузСоюз
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2137/index.m3u8
-#EXTINF:0,Жар Птица
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2142/index.m3u8
-#EXTINF:0,AIVA TV
-#EXTGRP:музыка
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2156/index.m3u8
-#EXTINF:0,История
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/111/index.m3u8
-#EXTINF:0,Моя Планета
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/117/index.m3u8
-#EXTINF:0,Outdoor Channel
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/119/index.m3u8
-#EXTINF:0,Совершенно секретно
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/121/index.m3u8
-#EXTINF:0,Россия-Культура
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/505/index.m3u8
-#EXTINF:0,Доктор
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/512/index.m3u8
-#EXTINF:0,Авто 24
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/538/index.m3u8
-#EXTINF:0,Nat Geo Wild
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/133/index.m3u8
-#EXTINF:0,nat geographic
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/134/index.m3u8
-#EXTINF:0,Discovery Science
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/136/index.m3u8
-#EXTINF:0,Animal Planet
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/137/index.m3u8
-#EXTINF:0,ID Xtra
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/139/index.m3u8
-#EXTINF:0,Discovery Channel
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/140/index.m3u8
-#EXTINF:0,Авто Плюс
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/151/index.m3u8
-#EXTINF:0,Время
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/552/index.m3u8
-#EXTINF:0,Домашние Животные
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/158/index.m3u8
-#EXTINF:0,Точка отрыва
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/159/index.m3u8
-#EXTINF:0,Надежда
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2153/index.m3u8
-#EXTINF:0,Viasat Nature
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/161/index.m3u8
-#EXTINF:0,Viasat History
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/162/index.m3u8
-#EXTINF:0,Viasat Explore
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/163/index.m3u8
-#EXTINF:0,Travel Channel
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/130/index.m3u8
-#EXTINF:0,Первый образовательный
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/701/index.m3u8
-#EXTINF:0,OCEAN-TV
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/703/index.m3u8
-#EXTINF:0,Бобёр
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/725/index.m3u8
-#EXTINF:0,Зоопарк
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/731/index.m3u8
-#EXTINF:0,E
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/736/index.m3u8
-#EXTINF:0,Морской
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/742/index.m3u8
-#EXTINF:0,Усадьба
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/532/index.m3u8
-#EXTINF:0,English Club TV
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/993/index.m3u8
-#EXTINF:0,H2
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1052/index.m3u8
-#EXTINF:0,Travel TV
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1044/index.m3u8
-#EXTINF:0,Classical Harmony
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1037/index.m3u8
-#EXTINF:0,Travel Channel EN
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1070/index.m3u8
-#EXTINF:0,History Russia
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/837/index.m3u8
-#EXTINF:0,RTG TV
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/841/index.m3u8
-#EXTINF:0,Первый Метео
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/845/index.m3u8
-#EXTINF:0,Дикий
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/847/index.m3u8
-#EXTINF:0,Spike Russia
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/849/index.m3u8
-#EXTINF:0,travel+adventure
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/850/index.m3u8
-#EXTINF:0,Поехали!
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/135/index.m3u8
-#EXTINF:0,Galaxy
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2010/index.m3u8
-#EXTINF:0,Охота и рыбалка
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2019/index.m3u8
-#EXTINF:0,ЕГЭ ТВ
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2020/index.m3u8
-#EXTINF:0,HD Media
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2037/index.m3u8
-#EXTINF:0,365 дней ТВ
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2040/index.m3u8
-#EXTINF:0,Телепутешествия
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2051/index.m3u8
-#EXTINF:0,Здоровье
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2054/index.m3u8
-#EXTINF:0,ТАЙНА
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2059/index.m3u8
-#EXTINF:0,Синергия ТВ
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2067/index.m3u8
-#EXTINF:0,Нано ТВ
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2081/index.m3u8
-#EXTINF:0,Investigation Discovery
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2085/index.m3u8
-#EXTINF:0,Оружие
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2087/index.m3u8
-#EXTINF:0,Зоо ТВ
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2100/index.m3u8
-#EXTINF:0,Живая Планета
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2101/index.m3u8
-#EXTINF:0,Наша тема
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2118/index.m3u8
-#EXTINF:0,Пёс и Ко
-#EXTGRP:познавательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2123/index.m3u8
-#EXTINF:0,Tiji TV
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/108/index.m3u8
-#EXTINF:0,Gulli
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/109/index.m3u8
-#EXTINF:0,Nick Jr
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/114/index.m3u8
-#EXTINF:0,Nickelodeon
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/541/index.m3u8
-#EXTINF:0,Disney
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/524/index.m3u8
-#EXTINF:0,Детский мир
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/543/index.m3u8
-#EXTINF:0,Jim Jam
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/138/index.m3u8
-#EXTINF:0,Cartoon Network
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/143/index.m3u8
-#EXTINF:0,Карусель
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/156/index.m3u8
-#EXTINF:0,Ani
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/129/index.m3u8
-#EXTINF:0,Мульт
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/909/index.m3u8
-#EXTINF:0,Тлум HD
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/240/index.m3u8
-#EXTINF:0,Boomerang
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/723/index.m3u8
-#EXTINF:0,О!
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/727/index.m3u8
-#EXTINF:0,Детский
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/730/index.m3u8
-#EXTINF:0,В гостях у сказки
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/737/index.m3u8
-#EXTINF:0,Карусель (+3)
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/740/index.m3u8
-#EXTINF:0,Мультимузыка
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/749/index.m3u8
-#EXTINF:0,Мультик HD
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/921/index.m3u8
-#EXTINF:0,Duck TV
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1031/index.m3u8
-#EXTINF:0,Baby TV
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2084/index.m3u8
-#EXTINF:0,Da Vinci Kids
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1033/index.m3u8
-#EXTINF:0,Da Vinci Kids PL
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1034/index.m3u8
-#EXTINF:0,Малыш
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1041/index.m3u8
-#EXTINF:0,Nickelodeon EN
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1069/index.m3u8
-#EXTINF:0,Радость моя
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/853/index.m3u8
-#EXTINF:0,Рыжий
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2052/index.m3u8
-#EXTINF:0,Капитан Фантастика
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2098/index.m3u8
-#EXTINF:0,UTv
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2103/index.m3u8
-#EXTINF:0,Тамыр
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2109/index.m3u8
-#EXTINF:0,Пингвин Лоло
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2152/index.m3u8
-#EXTINF:0,Смайлик ТВ
-#EXTGRP:детские
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2157/index.m3u8
-#EXTINF:0,ТНТ4
-#EXTGRP:развлекательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/104/index.m3u8
-#EXTINF:0,ЖАРА
-#EXTGRP:развлекательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/105/index.m3u8
-#EXTINF:0,Paramount Comedy Russia
-#EXTGRP:развлекательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/157/index.m3u8
-#EXTINF:0,ТНТ (+2)
-#EXTGRP:развлекательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/717/index.m3u8
-#EXTINF:0,НТВ Стиль
-#EXTGRP:развлекательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/745/index.m3u8
-#EXTINF:0,Fashion One
-#EXTGRP:развлекательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1010/index.m3u8
-#EXTINF:0,World Fashion Channel
-#EXTGRP:развлекательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1068/index.m3u8
-#EXTINF:0,Супер
-#EXTGRP:развлекательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/826/index.m3u8
-#EXTINF:0,Драйв
-#EXTGRP:развлекательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2021/index.m3u8
-#EXTINF:0,Мужской
-#EXTGRP:развлекательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2047/index.m3u8
-#EXTINF:0,Luxury World
-#EXTGRP:развлекательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2072/index.m3u8
-#EXTINF:0,Мир Premium
-#EXTGRP:развлекательные
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2105/index.m3u8
-#EXTINF:0,Мир
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/113/index.m3u8
-#EXTINF:0,НТВ
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/501/index.m3u8
-#EXTINF:0,ТНТ
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/502/index.m3u8
-#EXTINF:0,Пятница!
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/503/index.m3u8
-#EXTINF:0,Россия 1
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/504/index.m3u8
-#EXTINF:0,СТС
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/506/index.m3u8
-#EXTINF:0,ТВ3
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/508/index.m3u8
-#EXTINF:0,Первый канал
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/127/index.m3u8
-#EXTINF:0,РЕН ТВ
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/128/index.m3u8
-#EXTINF:0,Че
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/513/index.m3u8
-#EXTINF:0,Домашний
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/514/index.m3u8
-#EXTINF:0,ТНВ-Планета
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/515/index.m3u8
-#EXTINF:0,ТВЦ
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/520/index.m3u8
-#EXTINF:0,Телеканал Да Винчи
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/537/index.m3u8
-#EXTINF:0,Телеканал Звезда
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/544/index.m3u8
-#EXTINF:0,Ю ТВ
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/534/index.m3u8
-#EXTINF:0,КВН ТВ
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/546/index.m3u8
-#EXTINF:0,Мама
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/704/index.m3u8
-#EXTINF:0,ОТР
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/705/index.m3u8
-#EXTINF:0,CBS Reality
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/706/index.m3u8
-#EXTINF:0,ТВЦ (+2)
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/716/index.m3u8
-#EXTINF:0,NHK World TV
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/729/index.m3u8
-#EXTINF:0,Fine Living
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/735/index.m3u8
-#EXTINF:0,ЖИВИ!
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/738/index.m3u8
-#EXTINF:0,Звезда (+2)
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/739/index.m3u8
-#EXTINF:0,НТВ Право
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/743/index.m3u8
-#EXTINF:0,РЕН ТВ (+2)
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/747/index.m3u8
-#EXTINF:0,Сарафан
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/748/index.m3u8
-#EXTINF:0,CNL
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/955/index.m3u8
-#EXTINF:0,Al Jazeera
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/960/index.m3u8
-#EXTINF:0,TVP Info
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/961/index.m3u8
-#EXTINF:0,France 24
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/964/index.m3u8
-#EXTINF:0,AzTV
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/966/index.m3u8
-#EXTINF:0,Life TV
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/971/index.m3u8
-#EXTINF:0,ТБН
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/974/index.m3u8
-#EXTINF:0,СПАС
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/983/index.m3u8
-#EXTINF:0,WnessTV
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/984/index.m3u8
-#EXTINF:0,Архыз 24
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1049/index.m3u8
-#EXTINF:0,CBC AZ
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1050/index.m3u8
-#EXTINF:0,GUNAZ TV
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1051/index.m3u8
-#EXTINF:0,Kabbala TV
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1053/index.m3u8
-#EXTINF:0,8 канал
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1057/index.m3u8
-#EXTINF:0,Астрахань 24
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1059/index.m3u8
-#EXTINF:0,Shop & Show
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/827/index.m3u8
-#EXTINF:0,CCTV-4 Europe
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/829/index.m3u8
-#EXTINF:0,Башкирское спутниковое телевидение
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/832/index.m3u8
-#EXTINF:0,Первый Вегетарианский
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/833/index.m3u8
-#EXTINF:0,RT Documentary
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/839/index.m3u8
-#EXTINF:0,Просвещение
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/846/index.m3u8
-#EXTINF:0,Продвижение
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/851/index.m3u8
-#EXTINF:0,Загородная Жизнь
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/852/index.m3u8
-#EXTINF:0,Грозный
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/855/index.m3u8
-#EXTINF:0,Брянская Губерния
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/857/index.m3u8
-#EXTINF:0,Shopping Live
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/860/index.m3u8
-#EXTINF:0,Shop 24
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/861/index.m3u8
-#EXTINF:0,Твой дом
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/864/index.m3u8
-#EXTINF:0,Телекафе
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/865/index.m3u8
-#EXTINF:0,Кубань 24 ОРБИТА
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/866/index.m3u8
-#EXTINF:0,Губерния
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/867/index.m3u8
-#EXTINF:0,ACB TV
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/868/index.m3u8
-#EXTINF:0,Москва Доверие
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/869/index.m3u8
-#EXTINF:0,Победа
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2003/index.m3u8
-#EXTINF:0,Союз
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2016/index.m3u8
-#EXTINF:0,Здоровое ТВ
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2022/index.m3u8
-#EXTINF:0,Психология 21
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2025/index.m3u8
-#EXTINF:0,Вопросы и ответы
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2026/index.m3u8
-#EXTINF:0,ТДК
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2034/index.m3u8
-#EXTINF:0,Globalstar TV
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2035/index.m3u8
-#EXTINF:0,Юрган
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2036/index.m3u8
-#EXTINF:0,Успех
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2041/index.m3u8
-#EXTINF:0,Кто есть кто
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2042/index.m3u8
-#EXTINF:0,Точка ТВ
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2053/index.m3u8
-#EXTINF:0,Хамдан
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2066/index.m3u8
-#EXTINF:0,Раз ТВ
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2069/index.m3u8
-#EXTINF:0,Arirang
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2071/index.m3u8
-#EXTINF:0,Открытый мир
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2078/index.m3u8
-#EXTINF:0,Загородный
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2099/index.m3u8
-#EXTINF:0,БСТ
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2108/index.m3u8
-#EXTINF:0,ЛДПР ТВ
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2110/index.m3u8
-#EXTINF:0,Связист ТВ
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2111/index.m3u8
-#EXTINF:0,Мир Увлечений
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2112/index.m3u8
-#EXTINF:0,Волга
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2113/index.m3u8
-#EXTINF:0,Три ангела
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2116/index.m3u8
-#EXTINF:0,Ратник
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2119/index.m3u8
-#EXTINF:0,РЖД ТВ
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2120/index.m3u8
-#EXTINF:0,Первый Крымский
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2139/index.m3u8
-#EXTINF:0,ТОЛК
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2140/index.m3u8
-#EXTINF:0,КРЫМ 24
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2143/index.m3u8
-#EXTINF:0,Курай HD
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2144/index.m3u8
-#EXTINF:0,Красная линия
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2147/index.m3u8
-#EXTINF:0,ТНОМЕР
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2149/index.m3u8
-#EXTINF:0,Хузур ТВ
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2150/index.m3u8
-#EXTINF:0,Эхо ТВ
-#EXTGRP:другие
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2151/index.m3u8
-#EXTINF:0,МАТЧ! СТРАНА
-#EXTGRP:спорт
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/107/index.m3u8
-#EXTINF:0,Матч! Планета
-#EXTGRP:спорт
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/123/index.m3u8
-#EXTINF:0,Матч! Футбол 1
-#EXTGRP:спорт
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/124/index.m3u8
-#EXTINF:0,МАТЧ ПРЕМЬЕР
-#EXTGRP:спорт
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/531/index.m3u8
-#EXTINF:0,KHL
-#EXTGRP:спорт
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/519/index.m3u8
-#EXTINF:0,Матч! Футбол 3
-#EXTGRP:спорт
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/522/index.m3u8
-#EXTINF:0,Матч! Арена
-#EXTGRP:спорт
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/528/index.m3u8
-#EXTINF:0,Матч! Игра
-#EXTGRP:спорт
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/529/index.m3u8
-#EXTINF:0,Матч! Футбол 2
-#EXTGRP:спорт
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/530/index.m3u8
-#EXTINF:0,Матч ТВ
-#EXTGRP:спорт
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/535/index.m3u8
-#EXTINF:0,Eurosport 1
-#EXTGRP:спорт
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/141/index.m3u8
-#EXTINF:0,Extreme Sports
-#EXTGRP:спорт
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/144/index.m3u8
-#EXTINF:0,Матч! Боец
-#EXTGRP:спорт
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/150/index.m3u8
-#EXTINF:0,Viasat Sport
-#EXTGRP:спорт
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/160/index.m3u8
-#EXTINF:0,M-1 Global TV
-#EXTGRP:спорт
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/843/index.m3u8
-#EXTINF:0,Бокс ТВ
-#EXTGRP:спорт
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/870/index.m3u8
-#EXTINF:0,Моторспорт ТВ
-#EXTGRP:спорт
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2145/index.m3u8
-#EXTINF:0,СТАРТ
-#EXTGRP:спорт
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2154/index.m3u8
-#EXTINF:0,Первый HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/204/index.m3u8
-#EXTINF:0,VIP Premiere
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/202/index.m3u8
-#EXTINF:0,VIP Comedy
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/200/index.m3u8
-#EXTINF:0,VIP Megahit
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/201/index.m3u8
-#EXTINF:0,Viasat Nature/History HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/203/index.m3u8
-#EXTINF:0,Россия HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/205/index.m3u8
-#EXTINF:0,Матч! Футбол 3 HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/206/index.m3u8
-#EXTINF:0,Матч! Арена HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/207/index.m3u8
-#EXTINF:0,Hollywood HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/209/index.m3u8
-#EXTINF:0,RTG HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/210/index.m3u8
-#EXTINF:0,Матч! Футбол 2 HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/211/index.m3u8
-#EXTINF:0,Матч! HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/212/index.m3u8
-#EXTINF:0,НТВ HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/213/index.m3u8
-#EXTINF:0,Конный Мир HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/214/index.m3u8
-#EXTINF:0,Телеканал КХЛ HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/215/index.m3u8
-#EXTINF:0,Nat Geo Wild HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/216/index.m3u8
-#EXTINF:0,Mezzo Live HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/217/index.m3u8
-#EXTINF:0,Animal Planet HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/218/index.m3u8
-#EXTINF:0,Fox HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/219/index.m3u8
-#EXTINF:0,МАТЧ ПРЕМЬЕР HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/220/index.m3u8
-#EXTINF:0,MTV Live HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/221/index.m3u8
-#EXTINF:0,Матч! Футбол 1 HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/222/index.m3u8
-#EXTINF:0,Nickelodeon HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/223/index.m3u8
-#EXTINF:0,Матч! Игра HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/225/index.m3u8
-#EXTINF:0,HD Life
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/226/index.m3u8
-#EXTINF:0,Discovery Channel HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/227/index.m3u8
-#EXTINF:0,Eurosport 1 HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/228/index.m3u8
-#EXTINF:0,Amedia Premium HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/229/index.m3u8
-#EXTINF:0,National Geographic HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/230/index.m3u8
-#EXTINF:0,History HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/231/index.m3u8
-#EXTINF:0,TLC HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/232/index.m3u8
-#EXTINF:0,Travel Channel HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/233/index.m3u8
-#EXTINF:0,Eurosport 2 North-East HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/234/index.m3u8
-#EXTINF:0,Остросюжетное HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/904/index.m3u8
-#EXTINF:0,Дом Кино Премиум HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/911/index.m3u8
-#EXTINF:0,Шокирующее
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/913/index.m3u8
-#EXTINF:0,Комедийное HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/912/index.m3u8
-#EXTINF:0,Наш Кинороман HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/914/index.m3u8
-#EXTINF:0,Наше крутое HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/915/index.m3u8
-#EXTINF:0,Охотник и рыболов HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/917/index.m3u8
-#EXTINF:0,ЕДА Премиум
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/918/index.m3u8
-#EXTINF:0,Мир HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/235/index.m3u8
-#EXTINF:0,BRIDGE HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/236/index.m3u8
-#EXTINF:0,ТНТ HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/237/index.m3u8
-#EXTINF:0,Bollywood HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/239/index.m3u8
-#EXTINF:0,Теледом
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/954/index.m3u8
-#EXTINF:0,Настоящее время
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/986/index.m3u8
-#EXTINF:0,Travel HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1043/index.m3u8
-#EXTINF:0,XSPORT HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/996/index.m3u8
-#EXTINF:0,FAST&FUN BOX HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1018/index.m3u8
-#EXTINF:0,Epic Drama
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1048/index.m3u8
-#EXTINF:0,Эврика HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/908/index.m3u8
-#EXTINF:0,Приключения HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/920/index.m3u8
-#EXTINF:0,DocuBox HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/968/index.m3u8
-#EXTINF:0,Setanta Sports 2
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/270/index.m3u8
-#EXTINF:0,Setanta Sports HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/271/index.m3u8
-#EXTINF:0,Setanta Sports Ukraine HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/272/index.m3u8
-#EXTINF:0,UFC ТВ
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2000/index.m3u8
-#EXTINF:0,СТС Kids HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2001/index.m3u8
-#EXTINF:0,Eurosport Gold HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2002/index.m3u8
-#EXTINF:0,Дикая охота HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2004/index.m3u8
-#EXTINF:0,Дикая рыбалка HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2005/index.m3u8
-#EXTINF:0,DTX HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2006/index.m3u8
-#EXTINF:0,Viasat Sport HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2007/index.m3u8
-#EXTINF:0,Большая Азия HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2009/index.m3u8
-#EXTINF:0,Cartoon Network HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2011/index.m3u8
-#EXTINF:0,Рен ТВ HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2024/index.m3u8
-#EXTINF:0,Fine living HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2027/index.m3u8
-#EXTINF:0,C-Music HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2028/index.m3u8
-#EXTINF:0,H2 HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2033/index.m3u8
-#EXTINF:0,Fashion One HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2044/index.m3u8
-#EXTINF:0,Fashion TV HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2045/index.m3u8
-#EXTINF:0,A2 HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2046/index.m3u8
-#EXTINF:0,Киноужас HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2056/index.m3u8
-#EXTINF:0,Discovery HD Showcase
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2058/index.m3u8
-#EXTINF:0,360° HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2065/index.m3u8
-#EXTINF:0,Живая природа HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2074/index.m3u8
-#EXTINF:0,Русский роман HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2076/index.m3u8
-#EXTINF:0,Russian Extreme HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2077/index.m3u8
-#EXTINF:0,В мире животных HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2089/index.m3u8
-#EXTINF:0,Планета HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2090/index.m3u8
-#EXTINF:0,Anyday HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2091/index.m3u8
-#EXTINF:0,Glazella HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2092/index.m3u8
-#EXTINF:0,Mute HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2093/index.m3u8
-#EXTINF:0,Anyday HD 3D
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2094/index.m3u8
-#EXTINF:0,Glazella HD 3D
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2095/index.m3u8
-#EXTINF:0,Mute HD 3D
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2096/index.m3u8
-#EXTINF:0,КИНО ТВ HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2097/index.m3u8
-#EXTINF:0,ID Xtra HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2102/index.m3u8
-#EXTINF:0,Глазами туриста HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2104/index.m3u8
-#EXTINF:0,Наше любимое HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2106/index.m3u8
-#EXTINF:0,Мир 24 HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2107/index.m3u8
-#EXTINF:0,Русский иллюзион HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2114/index.m3u8
-#EXTINF:0,БСТ HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2115/index.m3u8
-#EXTINF:0,Загородный int HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2124/index.m3u8
-#EXTINF:0,Кухня ТВ HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2127/index.m3u8
-#EXTINF:0,Точка отрыва HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2128/index.m3u8
-#EXTINF:0,Жара HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2129/index.m3u8
-#EXTINF:0,MTV Россия HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2130/index.m3u8
-#EXTINF:0,Дорама HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2131/index.m3u8
-#EXTINF:0,Кинокомедия HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2132/index.m3u8
-#EXTINF:0,Наше новое кино HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2133/index.m3u8
-#EXTINF:0,Нано ТВ HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2135/index.m3u8
-#EXTINF:0,о2тв HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2141/index.m3u8
-#EXTINF:0,Моторспорт ТВ HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2146/index.m3u8
-#EXTINF:0,Открытый HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2148/index.m3u8
-#EXTINF:0,Наука HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2155/index.m3u8
-#EXTINF:0,Диалоги о рыбалке HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2394/index.m3u8
-#EXTINF:0,Clubbing TV HD RU
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2395/index.m3u8
-#EXTINF:0,Fuel TV HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2396/index.m3u8
-#EXTINF:0,Setanta Qazaqstan HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2399/index.m3u8
-#EXTINF:0,Губерния 33 HD
-#EXTGRP:HD
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2400/index.m3u8
-#EXTINF:0,SHOT TV
-#EXTGRP:взрослые
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/526/index.m3u8
-#EXTINF:0,Playboy
-#EXTGRP:взрослые
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/527/index.m3u8
-#EXTINF:0,Brazzers TV Europe
-#EXTGRP:взрослые
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/910/index.m3u8
-#EXTINF:0,Шалун
-#EXTGRP:взрослые
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/922/index.m3u8
-#EXTINF:0,Candy
-#EXTGRP:взрослые
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/923/index.m3u8
-#EXTINF:0,Penthouse TV
-#EXTGRP:взрослые
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1073/index.m3u8
-#EXTINF:0,Blue Hustler
-#EXTGRP:взрослые
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1064/index.m3u8
-#EXTINF:0,Barely legal
-#EXTGRP:взрослые
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/871/index.m3u8
-#EXTINF:0,BRAZZERS TV Europe 2
-#EXTGRP:взрослые
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/872/index.m3u8
-#EXTINF:0,Sexto Senso
-#EXTGRP:взрослые
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/875/index.m3u8
-#EXTINF:0,SCT
-#EXTGRP:взрослые
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/876/index.m3u8
-#EXTINF:0,PRIVE
-#EXTGRP:взрослые
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/877/index.m3u8
-#EXTINF:0,Passion XXX
-#EXTGRP:взрослые
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/878/index.m3u8
-#EXTINF:0,Redlight HD
-#EXTGRP:взрослые
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/242/index.m3u8
-#EXTINF:0,Private TV
-#EXTGRP:взрослые
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/243/index.m3u8
-#EXTINF:0,Hustler HD Europe
-#EXTGRP:взрослые
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/244/index.m3u8
-#EXTINF:0,Dorcel TV HD
-#EXTGRP:взрослые
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/245/index.m3u8
-#EXTINF:0,Pink'o TV
-#EXTGRP:взрослые
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/874/index.m3u8
-#EXTINF:0,Ночной клуб
-#EXTGRP:взрослые
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2017/index.m3u8
-#EXTINF:0,Нюарт TV
-#EXTGRP:взрослые
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2057/index.m3u8
-#EXTINF:0,FrenchLover
-#EXTGRP:взрослые
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2160/index.m3u8
-#EXTINF:0,O-la-la
-#EXTGRP:взрослые
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2161/index.m3u8
-#EXTINF:0,Vivid Red HD
-#EXTGRP:взрослые
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2162/index.m3u8
-#EXTINF:0,Exxxotica HD
-#EXTGRP:взрослые
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2397/index.m3u8
-#EXTINF:0,5 канал UA
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/945/index.m3u8
-#EXTINF:0,FilmBox
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/948/index.m3u8
-#EXTINF:0,24 Канал
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/951/index.m3u8
-#EXTINF:0,ATR
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/952/index.m3u8
-#EXTINF:0,Lale
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/953/index.m3u8
-#EXTINF:0,Надiя ТВ
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/956/index.m3u8
-#EXTINF:0,Перший Захiдний
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/957/index.m3u8
-#EXTINF:0,UA:ЛЬВIВ
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/958/index.m3u8
-#EXTINF:0,BBB TV
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/959/index.m3u8
-#EXTINF:0,Центральный канал
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/963/index.m3u8
-#EXTINF:0,Черноморская ТРК
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/965/index.m3u8
-#EXTINF:0,112 Україна
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/924/index.m3u8
-#EXTINF:0,EU Music
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/925/index.m3u8
-#EXTINF:0,NewsOne
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/926/index.m3u8
-#EXTINF:0,Eспресо TV
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/927/index.m3u8
-#EXTINF:0,Мега
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/929/index.m3u8
-#EXTINF:0,К2
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/930/index.m3u8
-#EXTINF:0,К1
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/931/index.m3u8
-#EXTINF:0,Квартал ТВ
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/932/index.m3u8
-#EXTINF:0,Enter-фільм
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/933/index.m3u8
-#EXTINF:0,Новий Канал
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/935/index.m3u8
-#EXTINF:0,НТН
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/936/index.m3u8
-#EXTINF:0,Інтер
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/937/index.m3u8
-#EXTINF:0,Пiксель ТВ
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/938/index.m3u8
-#EXTINF:0,Первый городской (Кривой Рог)
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/939/index.m3u8
-#EXTINF:0,ID Fashion
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/940/index.m3u8
-#EXTINF:0,Культура
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/941/index.m3u8
-#EXTINF:0,Телевсесвiт
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/942/index.m3u8
-#EXTINF:0,Медiаiнформ
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/943/index.m3u8
-#EXTINF:0,Skrypin.UA
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/944/index.m3u8
-#EXTINF:0,ТРК Алекс
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/967/index.m3u8
-#EXTINF:0,4ever Music
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/970/index.m3u8
-#EXTINF:0,Глас
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/972/index.m3u8
-#EXTINF:0,Правда Тут
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/973/index.m3u8
-#EXTINF:0,Тернопіль 1
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/975/index.m3u8
-#EXTINF:0,Рада
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/976/index.m3u8
-#EXTINF:0,MAXXI TV
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/977/index.m3u8
-#EXTINF:0,News Network
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/978/index.m3u8
-#EXTINF:0,Южная волна
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/979/index.m3u8
-#EXTINF:0,Первый городской
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/981/index.m3u8
-#EXTINF:0,СК1
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/982/index.m3u8
-#EXTINF:0,Перший дiловий
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/985/index.m3u8
-#EXTINF:0,1+1 International
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/987/index.m3u8
-#EXTINF:0,Громадське
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/988/index.m3u8
-#EXTINF:0,BOLT
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/991/index.m3u8
-#EXTINF:0,Star Cinema
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/992/index.m3u8
-#EXTINF:0,Чернiвецький Промiнь
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1004/index.m3u8
-#EXTINF:0,UA:Перший
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1016/index.m3u8
-#EXTINF:0,UA:Крым
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1017/index.m3u8
-#EXTINF:0,MostVideo.TV
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1027/index.m3u8
-#EXTINF:0,OBOZ TV
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1028/index.m3u8
-#EXTINF:0,TV5
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1030/index.m3u8
-#EXTINF:0,Star Family
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1042/index.m3u8
-#EXTINF:0,Интер+
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1047/index.m3u8
-#EXTINF:0,O-TV
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1055/index.m3u8
-#EXTINF:0,D1
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1058/index.m3u8
-#EXTINF:0,1+1
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/994/index.m3u8
-#EXTINF:0,2+2
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/995/index.m3u8
-#EXTINF:0,UKRAINE 1
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/997/index.m3u8
-#EXTINF:0,Бiгудi
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/989/index.m3u8
-#EXTINF:0,НТА
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/990/index.m3u8
-#EXTINF:0,ТВА
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/998/index.m3u8
-#EXTINF:0,Вiнтаж ТВ
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/999/index.m3u8
-#EXTINF:0,ZOOM
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1000/index.m3u8
-#EXTINF:0,ПлюсПлюс
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1002/index.m3u8
-#EXTINF:0,Малятко ТВ
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1003/index.m3u8
-#EXTINF:0,Галичина
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1005/index.m3u8
-#EXTINF:0,Еко TV
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1006/index.m3u8
-#EXTINF:0,ZIK HD
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1007/index.m3u8
-#EXTINF:0,ZIK
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1008/index.m3u8
-#EXTINF:0,ТЕТ
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1009/index.m3u8
-#EXTINF:0,Україна
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1011/index.m3u8
-#EXTINF:0,HDFASHION&LifeStyle
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1012/index.m3u8
-#EXTINF:0,Сонце
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1013/index.m3u8
-#EXTINF:0,NLO TV2
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1014/index.m3u8
-#EXTINF:0,Прямий HD
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1015/index.m3u8
-#EXTINF:0,КРТ
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1019/index.m3u8
-#EXTINF:0,ЧП.INFO
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1020/index.m3u8
-#EXTINF:0,Ескулап TV
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1022/index.m3u8
-#EXTINF:0,УНІАН
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1023/index.m3u8
-#EXTINF:0,UA|TV HD
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1024/index.m3u8
-#EXTINF:0,36.6 TV
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1025/index.m3u8
-#EXTINF:0,Milady Television
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1026/index.m3u8
-#EXTINF:0,BOUTIQUE TV
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1029/index.m3u8
-#EXTINF:0,NLO TV1
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1032/index.m3u8
-#EXTINF:0,7 канал
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1035/index.m3u8
-#EXTINF:0,Music Box UA HD
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1036/index.m3u8
-#EXTINF:0,ТРК Круг
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1040/index.m3u8
-#EXTINF:0,ТРК Київ
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1045/index.m3u8
-#EXTINF:0,8 Канал UA
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1046/index.m3u8
-#EXTINF:0,Чернiвцi
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1072/index.m3u8
-#EXTINF:0,24 Канал HD
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1063/index.m3u8
-#EXTINF:0,4 канал
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1039/index.m3u8
-#EXTINF:0,Футбол 1
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1109/index.m3u8
-#EXTINF:0,Футбол 2
-#EXTGRP:українські
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1110/index.m3u8
-#EXTINF:0,Food Network
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1107/index.m3u8
-#EXTINF:0,Ion Television
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/901/index.m3u8
-#EXTINF:0,NYCTV Life
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/902/index.m3u8
-#EXTINF:0,CBS New York
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/903/index.m3u8
-#EXTINF:0,Hallmark Movies & Mysteries HD
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1075/index.m3u8
-#EXTINF:0,Telemundo
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1080/index.m3u8
-#EXTINF:0,NBC
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1081/index.m3u8
-#EXTINF:0,Disney XD
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1082/index.m3u8
-#EXTINF:0,AMC US
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1083/index.m3u8
-#EXTINF:0,HGTV HD
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1084/index.m3u8
-#EXTINF:0,tru TV
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1085/index.m3u8
-#EXTINF:0,MAVTV HD
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1074/index.m3u8
-#EXTINF:0,ABC HD
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1087/index.m3u8
-#EXTINF:0,Fox 5 WNYW
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1086/index.m3u8
-#EXTINF:0,My9NJ
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1088/index.m3u8
-#EXTINF:0,Live Well Network
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1089/index.m3u8
-#EXTINF:0,MOTORTREND
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1091/index.m3u8
-#EXTINF:0,BBC America
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1092/index.m3u8
-#EXTINF:0,WPIX-TV
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1090/index.m3u8
-#EXTINF:0,THIRTEEN
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1093/index.m3u8
-#EXTINF:0,WLIW21
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1094/index.m3u8
-#EXTINF:0,NJTV
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1095/index.m3u8
-#EXTINF:0,MeTV
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1096/index.m3u8
-#EXTINF:0,SBN
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1097/index.m3u8
-#EXTINF:0,WMBC Digital Television
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1098/index.m3u8
-#EXTINF:0,Univision
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1099/index.m3u8
-#EXTINF:0,UniMÁS
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1100/index.m3u8
-#EXTINF:0,USA
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1101/index.m3u8
-#EXTINF:0,TNT
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1102/index.m3u8
-#EXTINF:0,TBS
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1103/index.m3u8
-#EXTINF:0,TLC
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1105/index.m3u8
-#EXTINF:0,FXM en
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1106/index.m3u8
-#EXTINF:0,A&E
-#EXTGRP:USA
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1108/index.m3u8
-#EXTINF:0,Беларусь 24
-#EXTGRP:беларускія
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/1061/index.m3u8
-#EXTINF:0,БелРос
-#EXTGRP:беларускія
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/835/index.m3u8
-#EXTINF:0,Беларусь 1
-#EXTGRP:беларускія
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2170/index.m3u8
-#EXTINF:0,Беларусь 2
-#EXTGRP:беларускія
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2173/index.m3u8
-#EXTINF:0,Беларусь 3
-#EXTGRP:беларускія
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2174/index.m3u8
-#EXTINF:0,Беларусь 1 HD
-#EXTGRP:беларускія
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2178/index.m3u8
-#EXTINF:0,Беларусь 2 HD
-#EXTGRP:беларускія
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2179/index.m3u8
-#EXTINF:0,Беларусь 3 HD
-#EXTGRP:беларускія
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2180/index.m3u8
-#EXTINF:0,Беларусь 5 HD
-#EXTGRP:беларускія
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2177/index.m3u8
-#EXTINF:0,ВТВ (СТС)
-#EXTGRP:беларускія
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2176/index.m3u8
-#EXTINF:0,СТВ
-#EXTGRP:беларускія
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2172/index.m3u8
-#EXTINF:0,СТВ HD
-#EXTGRP:беларускія
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2184/index.m3u8
-#EXTINF:0,ОНТ
-#EXTGRP:беларускія
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2171/index.m3u8
-#EXTINF:0,ОНТ HD
-#EXTGRP:беларускія
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2182/index.m3u8
-#EXTINF:0,РТР
-#EXTGRP:беларускія
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2183/index.m3u8
-#EXTINF:0,РТР HD
-#EXTGRP:беларускія
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2181/index.m3u8
-#EXTINF:0,Cinema HD
-#EXTGRP:беларускія
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2185/index.m3u8
-#EXTINF:0,8 Канал HD
-#EXTGRP:беларускія
-http://22b810d1.akadatel.com/iptv/A29A6562EVRUCP/2186/index.m3u8
+#EXTINF:-1,РБК-ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/106/index.m3u8
+#EXTINF:-1,Пятый канал
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/112/index.m3u8
+#EXTINF:-1,Россия-24
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/507/index.m3u8
+#EXTINF:-1,Москва 24
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/523/index.m3u8
+#EXTINF:-1,BBC World News
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/545/index.m3u8
+#EXTINF:-1,Мир 24
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/712/index.m3u8
+#EXTINF:-1,НТВ (+2)
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/713/index.m3u8
+#EXTINF:-1,Первый канал (+2)
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/714/index.m3u8
+#EXTINF:-1,Санкт-Петербург
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/715/index.m3u8
+#EXTINF:-1,Пятый Канал (+2)
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/746/index.m3u8
+#EXTINF:-1,FRANCE 24 En
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/947/index.m3u8
+#EXTINF:-1,CNBC
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/962/index.m3u8
+#EXTINF:-1,Euronews
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/969/index.m3u8
+#EXTINF:-1,Deutsche Welle DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1021/index.m3u8
+#EXTINF:-1,360°
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/825/index.m3u8
+#EXTINF:-1,Euronews Россия
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/828/index.m3u8
+#EXTINF:-1,CGTN
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/830/index.m3u8
+#EXTINF:-1,CGTN русский
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/831/index.m3u8
+#EXTINF:-1,RT News
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/840/index.m3u8
+#EXTINF:-1,CNN International Europe
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/842/index.m3u8
+#EXTINF:-1,RT Arabic
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/862/index.m3u8
+#EXTINF:-1,RT Espanol
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/863/index.m3u8
+#EXTINF:-1,Известия
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2008/index.m3u8
+#EXTINF:-1,Дождь
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2030/index.m3u8
+#EXTINF:-1,Центральное телевидение
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2064/index.m3u8
+#EXTINF:-1,Вместе-РФ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2073/index.m3u8
+#EXTINF:-1,RTVi
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2086/index.m3u8
+#EXTINF:-1,Про Бизнес
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5043/index.m3u8
+#EXTINF:-1,Sky News UK
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2475/index.m3u8
+#EXTINF:-1,Россия-24 +2
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6013/index.m3u8
+#EXTINF:-1,ABC News AU
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6120/index.m3u8
+#EXTINF:-1,Band News BR
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6161/index.m3u8
+#EXTINF:-1,Sky News Extra 2 AU
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6114/index.m3u8
+#EXTINF:-1,Sky News Extra 3 AU
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6115/index.m3u8
+#EXTINF:-1,Sky News Extra 3 AU
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6117/index.m3u8
+#EXTINF:-1,FOX News Extra AU
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6116/index.m3u8
+#EXTINF:-1,TV 1000 Русское кино
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/101/index.m3u8
+#EXTINF:-1,Ностальгия
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/102/index.m3u8
+#EXTINF:-1,СТС Love
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/103/index.m3u8
+#EXTINF:-1,Sony Sci-Fi
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/110/index.m3u8
+#EXTINF:-1,КИНОМИКС
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/509/index.m3u8
+#EXTINF:-1,КИНОСЕМЬЯ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/125/index.m3u8
+#EXTINF:-1,РОДНОЕ КИНО
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/126/index.m3u8
+#EXTINF:-1,TV 1000 Action
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/131/index.m3u8
+#EXTINF:-1,Кинохит
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/516/index.m3u8
+#EXTINF:-1,Amedia 2
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/510/index.m3u8
+#EXTINF:-1,Наше новое кино
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/517/index.m3u8
+#EXTINF:-1,TV XXI
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/525/index.m3u8
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/145/index.m3u8
+#EXTINF:-1,ИНДИЙСКОЕ КИНО
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/146/index.m3u8
+#EXTINF:-1,КИНОСЕРИЯ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/148/index.m3u8
+#EXTINF:-1,Русский Иллюзион
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/547/index.m3u8
+#EXTINF:-1,Еврокино
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/549/index.m3u8
+#EXTINF:-1,Fox Russia
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/550/index.m3u8
+#EXTINF:-1,Fox Life
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/553/index.m3u8
+#EXTINF:-1,Дом Кино
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/154/index.m3u8
+#EXTINF:-1,Amedia 1
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/554/index.m3u8
+#EXTINF:-1,Amedia Premium HD (SD)
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/555/index.m3u8
+#EXTINF:-1,AMEDIA HIT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/556/index.m3u8
+#EXTINF:-1,TV 1000
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/132/index.m3u8
+#EXTINF:-1,МУЖСКОЕ КИНО
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/164/index.m3u8
+#EXTINF:-1,Hollywood
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/557/index.m3u8
+#EXTINF:-1,Sony Entertainment Television
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/559/index.m3u8
+#EXTINF:-1,2X2
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/702/index.m3u8
+#EXTINF:-1,Sony Turbo
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/708/index.m3u8
+#EXTINF:-1,Русский бестселлер
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/905/index.m3u8
+#EXTINF:-1,Русский роман
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/906/index.m3u8
+#EXTINF:-1,Русский детектив
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/907/index.m3u8
+#EXTINF:-1,Любимое Кино
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/722/index.m3u8
+#EXTINF:-1,КИНОСВИДАНИЕ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/728/index.m3u8
+#EXTINF:-1,КИНО ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/732/index.m3u8
+#EXTINF:-1,Русская Комедия
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/733/index.m3u8
+#EXTINF:-1,FAN
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/734/index.m3u8
+#EXTINF:-1,НТВ-ХИТ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/741/index.m3u8
+#EXTINF:-1,НТВ Сериал
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/744/index.m3u8
+#EXTINF:-1,НСТ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/726/index.m3u8
+#EXTINF:-1,ZEE TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1001/index.m3u8
+#EXTINF:-1,Filmbox Arthouse
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1071/index.m3u8
+#EXTINF:-1,Дорама
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1066/index.m3u8
+#EXTINF:-1,TV1000 World Kino
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1065/index.m3u8
+#EXTINF:-1,Мир Сериала
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/856/index.m3u8
+#EXTINF:-1,Ретро
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2018/index.m3u8
+#EXTINF:-1,Иллюзион +
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2038/index.m3u8
+#EXTINF:-1,Феникс плюс Кино
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2039/index.m3u8
+#EXTINF:-1,Paramount Channel
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2055/index.m3u8
+#EXTINF:-1,Sony Channel HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2062/index.m3u8
+#EXTINF:-1,Киносат
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2121/index.m3u8
+#EXTINF:-1,Cinema
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5051/index.m3u8
+#EXTINF:-1,Sky Select UK
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2474/index.m3u8
+#EXTINF:-1,Sky Cinema Action HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2482/index.m3u8
+#EXTINF:-1,Sky Cinema Comedy DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2483/index.m3u8
+#EXTINF:-1,Sky Cinema HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2484/index.m3u8
+#EXTINF:-1,Disney Cinemagic HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2485/index.m3u8
+#EXTINF:-1,Sky Atlantic HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2488/index.m3u8
+#EXTINF:-1,Sky Cinema Family HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2489/index.m3u8
+#EXTINF:-1,Sky Cinema Nostalgie DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2490/index.m3u8
+#EXTINF:-1,Sky Krimi DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2491/index.m3u8
+#EXTINF:-1,Sky Cinema Comic-Helden DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2493/index.m3u8
+#EXTINF:-1,Sky Arts HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2494/index.m3u8
+#EXTINF:-1,Spiegel Geschichte HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2566/index.m3u8
+#EXTINF:-1,Sky Hits HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2486/index.m3u8
+#EXTINF:-1,Зал 1
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2568/index.m3u8
+#EXTINF:-1,Зал 2
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2569/index.m3u8
+#EXTINF:-1,Зал 3
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2570/index.m3u8
+#EXTINF:-1,Зал 4
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2571/index.m3u8
+#EXTINF:-1,Зал 5
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2572/index.m3u8
+#EXTINF:-1,Зал 6
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2573/index.m3u8
+#EXTINF:-1,Зал 7
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2574/index.m3u8
+#EXTINF:-1,Зал 8
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2575/index.m3u8
+#EXTINF:-1,Зал 9
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2576/index.m3u8
+#EXTINF:-1,Зал 10
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2577/index.m3u8
+#EXTINF:-1,Зал 11
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2578/index.m3u8
+#EXTINF:-1,Зал 12
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2579/index.m3u8
+#EXTINF:-1,CINE+ Frisson FR
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6003/index.m3u8
+#EXTINF:-1,Canal+ Decale FR
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6005/index.m3u8
+#EXTINF:-1,Canal+ Family FR
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6006/index.m3u8
+#EXTINF:-1,Canal+ Series FR
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6008/index.m3u8
+#EXTINF:-1,CINEMAX ACTION MAX EAST US
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6156/index.m3u8
+#EXTINF:-1,CINEMAX MOVIEMAX US
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6155/index.m3u8
+#EXTINF:-1,CINEMAX OUTER MAX US
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6154/index.m3u8
+#EXTINF:-1,CINEMAXX MORE MAXX US
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6152/index.m3u8
+#EXTINF:-1,beIN Drama QA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6137/index.m3u8
+#EXTINF:-1,FOX COMEDY PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6107/index.m3u8
+#EXTINF:-1,Мосфильм. Золотая коллекция
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6392/index.m3u8
+#EXTINF:-1,Europa Plus TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/115/index.m3u8
+#EXTINF:-1,МУЗ-ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/116/index.m3u8
+#EXTINF:-1,BRIDGE TV Русский Хит
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/120/index.m3u8
+#EXTINF:-1,Bridge TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/122/index.m3u8
+#EXTINF:-1,MTV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/142/index.m3u8
+#EXTINF:-1,MTV Hits
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/153/index.m3u8
+#EXTINF:-1,Музыка
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/155/index.m3u8
+#EXTINF:-1,Mezzo Live HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/208/index.m3u8
+#EXTINF:-1,VH1 European
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/536/index.m3u8
+#EXTINF:-1,MTV Dance
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/558/index.m3u8
+#EXTINF:-1,Mezzo
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/707/index.m3u8
+#EXTINF:-1,ТНТ MUSIC
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/710/index.m3u8
+#EXTINF:-1,BRIDGE TV DANCE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/711/index.m3u8
+#EXTINF:-1,VH1 Classic
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/724/index.m3u8
+#EXTINF:-1,Vostok TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1054/index.m3u8
+#EXTINF:-1,MTV Rocks
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1038/index.m3u8
+#EXTINF:-1,MCM Top Russia
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/836/index.m3u8
+#EXTINF:-1,RU.TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/838/index.m3u8
+#EXTINF:-1,Шансон ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/859/index.m3u8
+#EXTINF:-1,VIVA TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/301/index.m3u8
+#EXTINF:-1,Ля-минор ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2043/index.m3u8
+#EXTINF:-1,Russian Music Box
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2048/index.m3u8
+#EXTINF:-1,Курай TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2061/index.m3u8
+#EXTINF:-1,о2тв
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2068/index.m3u8
+#EXTINF:-1,МузСоюз
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2137/index.m3u8
+#EXTINF:-1,Жар Птица
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2142/index.m3u8
+#EXTINF:-1,AIVA TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2156/index.m3u8
+#EXTINF:-1,Муз ТВ +4
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6036/index.m3u8
+#EXTINF:-1,SONG TV HD RU
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6394/index.m3u8
+#EXTINF:-1,История
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/111/index.m3u8
+#EXTINF:-1,Моя Планета
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/117/index.m3u8
+#EXTINF:-1,Outdoor Channel
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/119/index.m3u8
+#EXTINF:-1,Совершенно секретно
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/121/index.m3u8
+#EXTINF:-1,Россия-Культура
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/505/index.m3u8
+#EXTINF:-1,Доктор
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/512/index.m3u8
+#EXTINF:-1,Авто 24
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/538/index.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/133/index.m3u8
+#EXTINF:-1,nat geographic
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/134/index.m3u8
+#EXTINF:-1,Discovery Science
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/136/index.m3u8
+#EXTINF:-1,Animal Planet
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/137/index.m3u8
+#EXTINF:-1,ID Xtra
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/139/index.m3u8
+#EXTINF:-1,Discovery Channel
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/140/index.m3u8
+#EXTINF:-1,Авто Плюс
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/151/index.m3u8
+#EXTINF:-1,Кухня ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/152/index.m3u8
+#EXTINF:-1,Время
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/552/index.m3u8
+#EXTINF:-1,Домашние Животные
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/158/index.m3u8
+#EXTINF:-1,Точка отрыва
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/159/index.m3u8
+#EXTINF:-1,Надежда
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2153/index.m3u8
+#EXTINF:-1,Viasat Nature
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/161/index.m3u8
+#EXTINF:-1,Viasat History
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/162/index.m3u8
+#EXTINF:-1,Viasat Explore
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/163/index.m3u8
+#EXTINF:-1,Travel Channel
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/130/index.m3u8
+#EXTINF:-1,Первый образовательный
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/701/index.m3u8
+#EXTINF:-1,OCEAN-TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/703/index.m3u8
+#EXTINF:-1,Бобёр
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/725/index.m3u8
+#EXTINF:-1,Зоопарк
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/731/index.m3u8
+#EXTINF:-1,E
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/736/index.m3u8
+#EXTINF:-1,Морской
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/742/index.m3u8
+#EXTINF:-1,Усадьба
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/532/index.m3u8
+#EXTINF:-1,English Club TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/993/index.m3u8
+#EXTINF:-1,H2
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1052/index.m3u8
+#EXTINF:-1,Travel TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1044/index.m3u8
+#EXTINF:-1,Classical Harmony
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1037/index.m3u8
+#EXTINF:-1,Travel Channel EN
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1070/index.m3u8
+#EXTINF:-1,History Russia
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/837/index.m3u8
+#EXTINF:-1,RTG TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/841/index.m3u8
+#EXTINF:-1,Первый Метео
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/845/index.m3u8
+#EXTINF:-1,Дикий
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/847/index.m3u8
+#EXTINF:-1,Spike Russia
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/849/index.m3u8
+#EXTINF:-1,travel+adventure
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/850/index.m3u8
+#EXTINF:-1,Поехали!
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/135/index.m3u8
+#EXTINF:-1,Galaxy
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2010/index.m3u8
+#EXTINF:-1,Охота и рыбалка
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2019/index.m3u8
+#EXTINF:-1,ЕГЭ ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2020/index.m3u8
+#EXTINF:-1,HD Media
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2037/index.m3u8
+#EXTINF:-1,365 дней ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2040/index.m3u8
+#EXTINF:-1,Телепутешествия
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2051/index.m3u8
+#EXTINF:-1,Здоровье
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2054/index.m3u8
+#EXTINF:-1,ТАЙНА
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2059/index.m3u8
+#EXTINF:-1,Синергия ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2067/index.m3u8
+#EXTINF:-1,Нано ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2081/index.m3u8
+#EXTINF:-1,Investigation Discovery
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2085/index.m3u8
+#EXTINF:-1,Оружие
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2087/index.m3u8
+#EXTINF:-1,Зоо ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2100/index.m3u8
+#EXTINF:-1,Живая Планета
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2101/index.m3u8
+#EXTINF:-1,Наша тема
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2118/index.m3u8
+#EXTINF:-1,Пёс и Ко
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2123/index.m3u8
+#EXTINF:-1,Наука HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2155/index.m3u8
+#EXTINF:-1,Sea TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5036/index.m3u8
+#EXTINF:-1,Домашние животные
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5046/index.m3u8
+#EXTINF:-1,Е
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5048/index.m3u8
+#EXTINF:-1,beIN DTX
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6143/index.m3u8
+#EXTINF:-1,ЕГЭ ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6301/index.m3u8
+#EXTINF:-1,Tiji TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/108/index.m3u8
+#EXTINF:-1,Gulli
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/109/index.m3u8
+#EXTINF:-1,Nick Jr
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/114/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/541/index.m3u8
+#EXTINF:-1,Disney
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/524/index.m3u8
+#EXTINF:-1,Детский мир
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/543/index.m3u8
+#EXTINF:-1,Jim Jam
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/138/index.m3u8
+#EXTINF:-1,Cartoon Network
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/143/index.m3u8
+#EXTINF:-1,Карусель
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/156/index.m3u8
+#EXTINF:-1,Ani
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/129/index.m3u8
+#EXTINF:-1,Мульт
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/909/index.m3u8
+#EXTINF:-1,Тлум HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/240/index.m3u8
+#EXTINF:-1,Boomerang
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/723/index.m3u8
+#EXTINF:-1,О!
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/727/index.m3u8
+#EXTINF:-1,Детский
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/730/index.m3u8
+#EXTINF:-1,В гостях у сказки
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/737/index.m3u8
+#EXTINF:-1,Карусель (+3)
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/740/index.m3u8
+#EXTINF:-1,Мультимузыка
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/749/index.m3u8
+#EXTINF:-1,Мультик HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/921/index.m3u8
+#EXTINF:-1,Duck TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1031/index.m3u8
+#EXTINF:-1,Baby TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2084/index.m3u8
+#EXTINF:-1,Da Vinci Kids
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1033/index.m3u8
+#EXTINF:-1,Da Vinci Kids PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1034/index.m3u8
+#EXTINF:-1,Малыш
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1041/index.m3u8
+#EXTINF:-1,Nickelodeon EN
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1069/index.m3u8
+#EXTINF:-1,Радость моя
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/853/index.m3u8
+#EXTINF:-1,Рыжий
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2052/index.m3u8
+#EXTINF:-1,Капитан Фантастика
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2098/index.m3u8
+#EXTINF:-1,UTv
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2103/index.m3u8
+#EXTINF:-1,Тамыр
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2109/index.m3u8
+#EXTINF:-1,Смайлик ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2157/index.m3u8
+#EXTINF:-1,Мультиландия
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5055/index.m3u8
+#EXTINF:-1,Уникум
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5056/index.m3u8
+#EXTINF:-1,beIN Junior
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6140/index.m3u8
+#EXTINF:-1,NickToons SK
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6095/index.m3u8
+#EXTINF:-1,ТНТ4
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/104/index.m3u8
+#EXTINF:-1,ЖАРА
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/105/index.m3u8
+#EXTINF:-1,Paramount Comedy Russia
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/157/index.m3u8
+#EXTINF:-1,ТНТ (+2)
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/717/index.m3u8
+#EXTINF:-1,НТВ Стиль
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/745/index.m3u8
+#EXTINF:-1,Fashion One
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1010/index.m3u8
+#EXTINF:-1,World Fashion Channel
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1068/index.m3u8
+#EXTINF:-1,Супер
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/826/index.m3u8
+#EXTINF:-1,Драйв
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2021/index.m3u8
+#EXTINF:-1,Мужской
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2047/index.m3u8
+#EXTINF:-1,Luxury World
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2072/index.m3u8
+#EXTINF:-1,Мир Premium
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2105/index.m3u8
+#EXTINF:-1,Luxury
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5032/index.m3u8
+#EXTINF:-1,Анекдот ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5034/index.m3u8
+#EXTINF:-1,Театр
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2431/index.m3u8
+#EXTINF:-1,Sat.1 HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6060/index.m3u8
+#EXTINF:-1,VOX HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6061/index.m3u8
+#EXTINF:-1,beIN Groummet
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6141/index.m3u8
+#EXTINF:-1,beIN Fatafeat
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6142/index.m3u8
+#EXTINF:-1,beIN Outdoor
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6139/index.m3u8
+#EXTINF:-1,Мир
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/113/index.m3u8
+#EXTINF:-1,НТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/501/index.m3u8
+#EXTINF:-1,ТНТ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/502/index.m3u8
+#EXTINF:-1,Пятница!
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/503/index.m3u8
+#EXTINF:-1,Россия 1
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/504/index.m3u8
+#EXTINF:-1,СТС
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/506/index.m3u8
+#EXTINF:-1,ТВ3
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/508/index.m3u8
+#EXTINF:-1,Первый канал
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/127/index.m3u8
+#EXTINF:-1,РЕН ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/128/index.m3u8
+#EXTINF:-1,Че
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/513/index.m3u8
+#EXTINF:-1,Домашний
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/514/index.m3u8
+#EXTINF:-1,ТНВ-Планета
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/515/index.m3u8
+#EXTINF:-1,ТВЦ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/520/index.m3u8
+#EXTINF:-1,Телеканал Да Винчи
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/537/index.m3u8
+#EXTINF:-1,Телеканал Звезда
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/544/index.m3u8
+#EXTINF:-1,Ю ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/534/index.m3u8
+#EXTINF:-1,КВН ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/546/index.m3u8
+#EXTINF:-1,Мама
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/704/index.m3u8
+#EXTINF:-1,ОТР
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/705/index.m3u8
+#EXTINF:-1,CBS Reality
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/706/index.m3u8
+#EXTINF:-1,ТВЦ (+2)
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/716/index.m3u8
+#EXTINF:-1,NHK World TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/729/index.m3u8
+#EXTINF:-1,Fine Living
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/735/index.m3u8
+#EXTINF:-1,ЖИВИ!
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/738/index.m3u8
+#EXTINF:-1,Звезда (+2)
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/739/index.m3u8
+#EXTINF:-1,НТВ Право
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/743/index.m3u8
+#EXTINF:-1,РЕН ТВ (+2)
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/747/index.m3u8
+#EXTINF:-1,Сарафан
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/748/index.m3u8
+#EXTINF:-1,CNL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/955/index.m3u8
+#EXTINF:-1,Al Jazeera
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/960/index.m3u8
+#EXTINF:-1,TVP Info
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/961/index.m3u8
+#EXTINF:-1,France 24
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/964/index.m3u8
+#EXTINF:-1,AzTV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/966/index.m3u8
+#EXTINF:-1,Life TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/971/index.m3u8
+#EXTINF:-1,ТБН
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/974/index.m3u8
+#EXTINF:-1,СПАС
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/983/index.m3u8
+#EXTINF:-1,WnessTV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/984/index.m3u8
+#EXTINF:-1,Архыз 24
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1049/index.m3u8
+#EXTINF:-1,CBC AZ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1050/index.m3u8
+#EXTINF:-1,GUNAZ TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1051/index.m3u8
+#EXTINF:-1,Kabbala TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1053/index.m3u8
+#EXTINF:-1,Погляд HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1057/index.m3u8
+#EXTINF:-1,Астрахань 24
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1059/index.m3u8
+#EXTINF:-1,Shop & Show
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/827/index.m3u8
+#EXTINF:-1,CCTV-4 Europe
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/829/index.m3u8
+#EXTINF:-1,Башкирское спутниковое телевидение
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/832/index.m3u8
+#EXTINF:-1,Первый Вегетарианский
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/833/index.m3u8
+#EXTINF:-1,RT Documentary
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/839/index.m3u8
+#EXTINF:-1,Просвещение
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/846/index.m3u8
+#EXTINF:-1,Продвижение
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/851/index.m3u8
+#EXTINF:-1,Загородная Жизнь
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/852/index.m3u8
+#EXTINF:-1,Грозный
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/855/index.m3u8
+#EXTINF:-1,Брянская Губерния
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/857/index.m3u8
+#EXTINF:-1,Shopping Live
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/860/index.m3u8
+#EXTINF:-1,Shop 24
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/861/index.m3u8
+#EXTINF:-1,Твой дом
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/864/index.m3u8
+#EXTINF:-1,Телекафе
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/865/index.m3u8
+#EXTINF:-1,Кубань 24 ОРБИТА
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/866/index.m3u8
+#EXTINF:-1,Губерния
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/867/index.m3u8
+#EXTINF:-1,ACB TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/868/index.m3u8
+#EXTINF:-1,Москва Доверие
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/869/index.m3u8
+#EXTINF:-1,Победа
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2003/index.m3u8
+#EXTINF:-1,Союз
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2016/index.m3u8
+#EXTINF:-1,Здоровое ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2022/index.m3u8
+#EXTINF:-1,Психология 21
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2025/index.m3u8
+#EXTINF:-1,Вопросы и ответы
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2026/index.m3u8
+#EXTINF:-1,ТДК
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2034/index.m3u8
+#EXTINF:-1,Globalstar TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2035/index.m3u8
+#EXTINF:-1,Юрган
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2036/index.m3u8
+#EXTINF:-1,Успех
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2041/index.m3u8
+#EXTINF:-1,Кто есть кто
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2042/index.m3u8
+#EXTINF:-1,Точка ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2053/index.m3u8
+#EXTINF:-1,Хамдан
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2066/index.m3u8
+#EXTINF:-1,Раз ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2069/index.m3u8
+#EXTINF:-1,Arirang
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2071/index.m3u8
+#EXTINF:-1,Открытый мир
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2078/index.m3u8
+#EXTINF:-1,Загородный
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2099/index.m3u8
+#EXTINF:-1,БСТ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2108/index.m3u8
+#EXTINF:-1,ЛДПР ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2110/index.m3u8
+#EXTINF:-1,Связист ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2111/index.m3u8
+#EXTINF:-1,Мир Увлечений
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2112/index.m3u8
+#EXTINF:-1,Волга
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2113/index.m3u8
+#EXTINF:-1,Три ангела
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2116/index.m3u8
+#EXTINF:-1,Ратник
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2119/index.m3u8
+#EXTINF:-1,РЖД ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2120/index.m3u8
+#EXTINF:-1,Первый Крымский
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2139/index.m3u8
+#EXTINF:-1,ТОЛК
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2140/index.m3u8
+#EXTINF:-1,КРЫМ 24
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2143/index.m3u8
+#EXTINF:-1,Курай HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2144/index.m3u8
+#EXTINF:-1,Красная линия
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2147/index.m3u8
+#EXTINF:-1,ТНОМЕР
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2149/index.m3u8
+#EXTINF:-1,Хузур ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2150/index.m3u8
+#EXTINF:-1,Эхо ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2151/index.m3u8
+#EXTINF:-1,Калейдоскоп ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5037/index.m3u8
+#EXTINF:-1,Т 24
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5047/index.m3u8
+#EXTINF:-1,Липецк Time
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2435/index.m3u8
+#EXTINF:-1,Россия-1 +2
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6011/index.m3u8
+#EXTINF:-1,Россия-1 +4
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6022/index.m3u8
+#EXTINF:-1,Россия-1 +6
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6038/index.m3u8
+#EXTINF:-1,Россия-1 +8
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6051/index.m3u8
+#EXTINF:-1,ОТР +2
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6014/index.m3u8
+#EXTINF:-1,ОТР +4
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6026/index.m3u8
+#EXTINF:-1,ОТР +8
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6055/index.m3u8
+#EXTINF:-1,СТС +2
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6015/index.m3u8
+#EXTINF:-1,СТС +4
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6029/index.m3u8
+#EXTINF:-1,СТС +6
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6043/index.m3u8
+#EXTINF:-1,Домашний +2
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6016/index.m3u8
+#EXTINF:-1,Домашний +4
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6030/index.m3u8
+#EXTINF:-1,Домашний +6
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6044/index.m3u8
+#EXTINF:-1,ТВ3 +2
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6017/index.m3u8
+#EXTINF:-1,ТВ3 +4
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6031/index.m3u8
+#EXTINF:-1,ТВ3 +6
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6045/index.m3u8
+#EXTINF:-1,Пятница +2
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6018/index.m3u8
+#EXTINF:-1,Пятница +4
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6032/index.m3u8
+#EXTINF:-1,Пятница +6
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6046/index.m3u8
+#EXTINF:-1,Мир +2
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6019/index.m3u8
+#EXTINF:-1,Мир +4
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6034/index.m3u8
+#EXTINF:-1,Мир +6
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6048/index.m3u8
+#EXTINF:-1,ТНТ +2
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6020/index.m3u8
+#EXTINF:-1,ТНТ +4
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6035/index.m3u8
+#EXTINF:-1,ТНТ +6
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6049/index.m3u8
+#EXTINF:-1,Первый канал +4
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6021/index.m3u8
+#EXTINF:-1,Первый канал +6
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6037/index.m3u8
+#EXTINF:-1,Первый канал +8
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6050/index.m3u8
+#EXTINF:-1,НТВ +4
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6024/index.m3u8
+#EXTINF:-1,НТВ +6
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6039/index.m3u8
+#EXTINF:-1,НТВ +8
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6053/index.m3u8
+#EXTINF:-1,5 канал +4
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6025/index.m3u8
+#EXTINF:-1,5 канал +6
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6040/index.m3u8
+#EXTINF:-1,5 канал +8
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6054/index.m3u8
+#EXTINF:-1,Рен ТВ +4
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6028/index.m3u8
+#EXTINF:-1,Рен ТВ +6
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6042/index.m3u8
+#EXTINF:-1,Звезда +4
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6033/index.m3u8
+#EXTINF:-1,Звезда +6
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6047/index.m3u8
+#EXTINF:-1,ТВЦ +4
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6027/index.m3u8
+#EXTINF:-1,ТВЦ +6
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6041/index.m3u8
+#EXTINF:-1,ТВЦ +8
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6056/index.m3u8
+#EXTINF:-1,AXN BR
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6163/index.m3u8
+#EXTINF:-1,Australia Channel AU
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6118/index.m3u8
+#EXTINF:-1,PARIS PREMIERE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6146/index.m3u8
+#EXTINF:-1,Дождь HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6308/index.m3u8
+#EXTINF:-1,BTV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6344/index.m3u8
+#EXTINF:-1,Kidzone baltic
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6345/index.m3u8
+#EXTINF:-1,TV3 LV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6346/index.m3u8
+#EXTINF:-1,3+ LV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6347/index.m3u8
+#EXTINF:-1,TV6 LV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6348/index.m3u8
+#EXTINF:-1,TV3 LT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6349/index.m3u8
+#EXTINF:-1,TV6 LT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6350/index.m3u8
+#EXTINF:-1,LNT LV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6351/index.m3u8
+#EXTINF:-1,LTV1
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6353/index.m3u8
+#EXTINF:-1,LTV7
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6354/index.m3u8
+#EXTINF:-1,TV8 LT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6355/index.m3u8
+#EXTINF:-1,LRT Televizija LT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6356/index.m3u8
+#EXTINF:-1,TV1 LT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6357/index.m3u8
+#EXTINF:-1,LNK LV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6358/index.m3u8
+#EXTINF:-1,Lietuvos Rytas LT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6359/index.m3u8
+#EXTINF:-1,LRT HD LT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6360/index.m3u8
+#EXTINF:-1,LRT Plius LT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6361/index.m3u8
+#EXTINF:-1,LRT Plius HD LT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6362/index.m3u8
+#EXTINF:-1,INFO TV LT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6363/index.m3u8
+#EXTINF:-1,LIUKS! LT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6364/index.m3u8
+#EXTINF:-1,Siauliu TV LT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6365/index.m3u8
+#EXTINF:-1,Sport 1 LT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6366/index.m3u8
+#EXTINF:-1,Sport 1 HD LT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6367/index.m3u8
+#EXTINF:-1,Pingviniukas LT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6368/index.m3u8
+#EXTINF:-1,Апостроф TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6373/index.m3u8
+#EXTINF:-1,МАТЧ! СТРАНА
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/107/index.m3u8
+#EXTINF:-1,Матч! Планета
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/123/index.m3u8
+#EXTINF:-1,Матч! Футбол 1
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/124/index.m3u8
+#EXTINF:-1,KHL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/519/index.m3u8
+#EXTINF:-1,Матч! Футбол 3
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/522/index.m3u8
+#EXTINF:-1,Матч! Арена
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/528/index.m3u8
+#EXTINF:-1,Матч! Игра
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/529/index.m3u8
+#EXTINF:-1,Матч! Футбол 2
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/530/index.m3u8
+#EXTINF:-1,МАТЧ ПРЕМЬЕР
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/531/index.m3u8
+#EXTINF:-1,Матч ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/535/index.m3u8
+#EXTINF:-1,Eurosport 1
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/141/index.m3u8
+#EXTINF:-1,Extreme Sports
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/144/index.m3u8
+#EXTINF:-1,Матч! Боец
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/150/index.m3u8
+#EXTINF:-1,Viasat Sport
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/160/index.m3u8
+#EXTINF:-1,M-1 Global TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/843/index.m3u8
+#EXTINF:-1,Бокс ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/870/index.m3u8
+#EXTINF:-1,Моторспорт ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2145/index.m3u8
+#EXTINF:-1,СТАРТ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2154/index.m3u8
+#EXTINF:-1,Телеканал Футбол
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5050/index.m3u8
+#EXTINF:-1,Sky Sport News HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2477/index.m3u8
+#EXTINF:-1,Sky Sport 1 HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2478/index.m3u8
+#EXTINF:-1,Sky Sport 2 HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2479/index.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 1 HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2480/index.m3u8
+#EXTINF:-1,AFN Sports 2 US
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2487/index.m3u8
+#EXTINF:-1,Sky Sport Austria 1 HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2492/index.m3u8
+#EXTINF:-1,Bein Sports 1 HD FR
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2499/index.m3u8
+#EXTINF:-1,Bein Sports 2 HD FR
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2500/index.m3u8
+#EXTINF:-1,Bein Sports 3 HD FR
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2501/index.m3u8
+#EXTINF:-1,Canal+ Sport HD FR
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2502/index.m3u8
+#EXTINF:-1,Sport 1 HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2503/index.m3u8
+#EXTINF:-1,BT Sport 1 UK
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2505/index.m3u8
+#EXTINF:-1,BT Sport 2 UK
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2506/index.m3u8
+#EXTINF:-1,Star Sports 2 IN
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2507/index.m3u8
+#EXTINF:-1,Star Sports 1 IN
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2508/index.m3u8
+#EXTINF:-1,YAS Sports AE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2511/index.m3u8
+#EXTINF:-1,ONTime Sports EG
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2512/index.m3u8
+#EXTINF:-1,TIME SPORTS EG
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2513/index.m3u8
+#EXTINF:-1,NOVA Sport BG
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2514/index.m3u8
+#EXTINF:-1,C More Sport HD SE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2515/index.m3u8
+#EXTINF:-1,CANAL+ Sport 2 HD PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2516/index.m3u8
+#EXTINF:-1,Eleven Sports 2 HD PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2517/index.m3u8
+#EXTINF:-1,Eleven Sports 1 HD PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2518/index.m3u8
+#EXTINF:-1,nSport+ PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2519/index.m3u8
+#EXTINF:-1,TVP Sport HD PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2520/index.m3u8
+#EXTINF:-1,Sportklub HD PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2521/index.m3u8
+#EXTINF:-1,DIGI Sport 2 HD RO
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2522/index.m3u8
+#EXTINF:-1,DIGI Sport 1 HD RO
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2523/index.m3u8
+#EXTINF:-1,DIGI Sport 3 HD RO
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2524/index.m3u8
+#EXTINF:-1,SPORT TV 1 HD PT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2525/index.m3u8
+#EXTINF:-1,SPORT TV 2 HD PT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2526/index.m3u8
+#EXTINF:-1,SPORT TV 3 HD PT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2527/index.m3u8
+#EXTINF:-1,SPORT TV 4 PT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2528/index.m3u8
+#EXTINF:-1,SPORT TV 5 PT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2529/index.m3u8
+#EXTINF:-1,SPORT TV + PT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2530/index.m3u8
+#EXTINF:-1,Eleven Sports 1 HD PT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2531/index.m3u8
+#EXTINF:-1,Eleven Sports 2 HD PT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2532/index.m3u8
+#EXTINF:-1,Eleven Sports 3 PT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2533/index.m3u8
+#EXTINF:-1,Eleven Sports 4 PT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2534/index.m3u8
+#EXTINF:-1,Eleven Sports 5 PT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2535/index.m3u8
+#EXTINF:-1,Eleven Sports 6 PT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2536/index.m3u8
+#EXTINF:-1,TV 2 SPORT HD DK
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2537/index.m3u8
+#EXTINF:-1,DIGI Sport 4 HD RO
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2538/index.m3u8
+#EXTINF:-1,Auto Motor Sport RO
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2539/index.m3u8
+#EXTINF:-1,TV 2 Sport 2 HD NO
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2540/index.m3u8
+#EXTINF:-1,C More Sport 1 HD FI
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2541/index.m3u8
+#EXTINF:-1,TV3 Sport HD SK
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2542/index.m3u8
+#EXTINF:-1,BEIN SPORTS HD ES
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2543/index.m3u8
+#EXTINF:-1,RMC Sport 1 HD FR
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2545/index.m3u8
+#EXTINF:-1,RMC Sport 2 HD FR
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2546/index.m3u8
+#EXTINF:-1,RMC Sport 3 HD FR
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2547/index.m3u8
+#EXTINF:-1,Sport 1 LT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2548/index.m3u8
+#EXTINF:-1,Sport 1 HD LT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2549/index.m3u8
+#EXTINF:-1,Arena Sport 1 SK
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2550/index.m3u8
+#EXTINF:-1,CT sport HD CZ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2551/index.m3u8
+#EXTINF:-1,FOX Sports 1 HD NL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2552/index.m3u8
+#EXTINF:-1,FOX Sports 2 HD NL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2553/index.m3u8
+#EXTINF:-1,FOX Sports 4 HD NL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2554/index.m3u8
+#EXTINF:-1,Nova Sport 1 HD CZ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2555/index.m3u8
+#EXTINF:-1,Nova Sport 2 HD CZ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2556/index.m3u8
+#EXTINF:-1,Sport 2 HD CZ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2557/index.m3u8
+#EXTINF:-1,Sport 5 CZ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2558/index.m3u8
+#EXTINF:-1,Ziggo Sport Golf NL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2559/index.m3u8
+#EXTINF:-1,Ziggo Sport Select HD NL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2560/index.m3u8
+#EXTINF:-1,Ziggo Sport Voetbal NL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2561/index.m3u8
+#EXTINF:-1,Infosport+ HD FR
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2544/index.m3u8
+#EXTINF:-1,Матч +2
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6012/index.m3u8
+#EXTINF:-1,Матч +4
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6023/index.m3u8
+#EXTINF:-1,Матч +8
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6052/index.m3u8
+#EXTINF:-1,Band Sports BR
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6158/index.m3u8
+#EXTINF:-1,beIN Sports 1 HD QA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6123/index.m3u8
+#EXTINF:-1,beIN Sports 3 HD QA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6124/index.m3u8
+#EXTINF:-1,beIN Sports 4 HD QA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6125/index.m3u8
+#EXTINF:-1,beIN Sports 5 HD QA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6126/index.m3u8
+#EXTINF:-1,beIN Sports 6 HD QA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6127/index.m3u8
+#EXTINF:-1,beIN Sports 7 HD QA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6128/index.m3u8
+#EXTINF:-1,beIN Sports 8 HD QA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6129/index.m3u8
+#EXTINF:-1,beIN Sports 9 HD QA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6130/index.m3u8
+#EXTINF:-1,beIN Sports 10 HD QA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6131/index.m3u8
+#EXTINF:-1,beIN Sports 11 HD QA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6132/index.m3u8
+#EXTINF:-1,beIN Sports 12 HD QA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6133/index.m3u8
+#EXTINF:-1,CANAL+ SPORT 2 PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6099/index.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 9 DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6097/index.m3u8
+#EXTINF:-1,Sky Sport Austria 2 DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6113/index.m3u8
+#EXTINF:-1,Sky Racing AU
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6122/index.m3u8
+#EXTINF:-1,Motorvision TV DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6112/index.m3u8
+#EXTINF:-1,Golf TV FR
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6066/index.m3u8
+#EXTINF:-1,Fox Sports News AU
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6121/index.m3u8
+#EXTINF:-1,Fox Sports News AU
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6119/index.m3u8
+#EXTINF:-1,Golf TV HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6393/index.m3u8
+#EXTINF:-1,Первый HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/204/index.m3u8
+#EXTINF:-1,VIP Premiere
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/202/index.m3u8
+#EXTINF:-1,VIP Comedy
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/200/index.m3u8
+#EXTINF:-1,VIP Megahit
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/201/index.m3u8
+#EXTINF:-1,Viasat Nature/History HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/203/index.m3u8
+#EXTINF:-1,Россия HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/205/index.m3u8
+#EXTINF:-1,Матч! Футбол 3 HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/206/index.m3u8
+#EXTINF:-1,Матч! Арена HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/207/index.m3u8
+#EXTINF:-1,Hollywood HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/209/index.m3u8
+#EXTINF:-1,RTG HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/210/index.m3u8
+#EXTINF:-1,Матч! Футбол 2 HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/211/index.m3u8
+#EXTINF:-1,Матч! HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/212/index.m3u8
+#EXTINF:-1,НТВ HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/213/index.m3u8
+#EXTINF:-1,Конный Мир HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/214/index.m3u8
+#EXTINF:-1,Телеканал КХЛ HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/215/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/216/index.m3u8
+#EXTINF:-1,Mezzo Live HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/217/index.m3u8
+#EXTINF:-1,Animal Planet HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/218/index.m3u8
+#EXTINF:-1,Fox HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/219/index.m3u8
+#EXTINF:-1,МАТЧ ПРЕМЬЕР HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/220/index.m3u8
+#EXTINF:-1,MTV Live HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/221/index.m3u8
+#EXTINF:-1,Матч! Футбол 1 HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/222/index.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/223/index.m3u8
+#EXTINF:-1,КИНОПРЕМЬЕРА HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/224/index.m3u8
+#EXTINF:-1,Матч! Игра HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/225/index.m3u8
+#EXTINF:-1,HD Life
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/226/index.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/227/index.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/228/index.m3u8
+#EXTINF:-1,Amedia Premium HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/229/index.m3u8
+#EXTINF:-1,National Geographic HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/230/index.m3u8
+#EXTINF:-1,History HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/231/index.m3u8
+#EXTINF:-1,TLC HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/232/index.m3u8
+#EXTINF:-1,Travel Channel HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/233/index.m3u8
+#EXTINF:-1,Eurosport 2 North-East HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/234/index.m3u8
+#EXTINF:-1,Остросюжетное HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/904/index.m3u8
+#EXTINF:-1,Дом Кино Премиум HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/911/index.m3u8
+#EXTINF:-1,Шокирующее
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/913/index.m3u8
+#EXTINF:-1,Комедийное HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/912/index.m3u8
+#EXTINF:-1,Наш Кинороман HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/914/index.m3u8
+#EXTINF:-1,Наше крутое HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/915/index.m3u8
+#EXTINF:-1,Охотник и рыболов HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/917/index.m3u8
+#EXTINF:-1,ЕДА Премиум
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/918/index.m3u8
+#EXTINF:-1,Мир HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/235/index.m3u8
+#EXTINF:-1,BRIDGE HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/236/index.m3u8
+#EXTINF:-1,ТНТ HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/237/index.m3u8
+#EXTINF:-1,Bollywood HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/239/index.m3u8
+#EXTINF:-1,Теледом
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/954/index.m3u8
+#EXTINF:-1,4ever Music
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/970/index.m3u8
+#EXTINF:-1,Настоящее время
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/986/index.m3u8
+#EXTINF:-1,Travel HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1043/index.m3u8
+#EXTINF:-1,XSPORT HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/996/index.m3u8
+#EXTINF:-1,FAST&FUN BOX HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1018/index.m3u8
+#EXTINF:-1,Epic Drama
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1048/index.m3u8
+#EXTINF:-1,Эврика HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/908/index.m3u8
+#EXTINF:-1,Приключения HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/920/index.m3u8
+#EXTINF:-1,DocuBox HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/968/index.m3u8
+#EXTINF:-1,Страшное HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2567/index.m3u8
+#EXTINF:-1,Setanta Sports 2
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/270/index.m3u8
+#EXTINF:-1,Setanta Sports HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/271/index.m3u8
+#EXTINF:-1,Setanta Sports Ukraine HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/272/index.m3u8
+#EXTINF:-1,UFC ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2000/index.m3u8
+#EXTINF:-1,СТС Kids HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2001/index.m3u8
+#EXTINF:-1,Eurosport Gold HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2002/index.m3u8
+#EXTINF:-1,Дикая охота HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2004/index.m3u8
+#EXTINF:-1,Дикая рыбалка HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2005/index.m3u8
+#EXTINF:-1,DTX HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2006/index.m3u8
+#EXTINF:-1,Viasat Sport HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2007/index.m3u8
+#EXTINF:-1,Большая Азия HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2009/index.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2011/index.m3u8
+#EXTINF:-1,Рен ТВ HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2024/index.m3u8
+#EXTINF:-1,Fine living HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2027/index.m3u8
+#EXTINF:-1,C-Music HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2028/index.m3u8
+#EXTINF:-1,H2 HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2033/index.m3u8
+#EXTINF:-1,Fashion One HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2044/index.m3u8
+#EXTINF:-1,Fashion TV HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2045/index.m3u8
+#EXTINF:-1,A2 HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2046/index.m3u8
+#EXTINF:-1,Киноужас HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2056/index.m3u8
+#EXTINF:-1,Discovery HD Showcase
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2058/index.m3u8
+#EXTINF:-1,360° HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2065/index.m3u8
+#EXTINF:-1,Живая природа HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2074/index.m3u8
+#EXTINF:-1,Русский роман HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2076/index.m3u8
+#EXTINF:-1,Russian Extreme HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2077/index.m3u8
+#EXTINF:-1,В мире животных HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2089/index.m3u8
+#EXTINF:-1,Планета HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2090/index.m3u8
+#EXTINF:-1,КИНО ТВ HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2097/index.m3u8
+#EXTINF:-1,ID Xtra HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2102/index.m3u8
+#EXTINF:-1,Глазами туриста HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2104/index.m3u8
+#EXTINF:-1,Наше любимое HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2106/index.m3u8
+#EXTINF:-1,Мир 24 HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2107/index.m3u8
+#EXTINF:-1,Русский иллюзион HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2114/index.m3u8
+#EXTINF:-1,БСТ HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2115/index.m3u8
+#EXTINF:-1,Загородный int HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2124/index.m3u8
+#EXTINF:-1,Кухня ТВ HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2127/index.m3u8
+#EXTINF:-1,Точка отрыва HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2128/index.m3u8
+#EXTINF:-1,Жара HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2129/index.m3u8
+#EXTINF:-1,MTV Россия HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2130/index.m3u8
+#EXTINF:-1,Дорама HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2131/index.m3u8
+#EXTINF:-1,Кинокомедия HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2132/index.m3u8
+#EXTINF:-1,Наше новое кино HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2133/index.m3u8
+#EXTINF:-1,Нано ТВ HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2135/index.m3u8
+#EXTINF:-1,о2тв HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2141/index.m3u8
+#EXTINF:-1,Моторспорт ТВ HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2146/index.m3u8
+#EXTINF:-1,Диалоги о рыбалке HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2394/index.m3u8
+#EXTINF:-1,Clubbing TV HD RU
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2395/index.m3u8
+#EXTINF:-1,Fuel TV HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2396/index.m3u8
+#EXTINF:-1,Setanta Qazaqstan HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2399/index.m3u8
+#EXTINF:-1,Губерния 33 HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2400/index.m3u8
+#EXTINF:-1,Футбол 3 HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/290/index.m3u8
+#EXTINF:-1,Jurnal TV HD MD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5008/index.m3u8
+#EXTINF:-1,Пятница! HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5031/index.m3u8
+#EXTINF:-1,ТВ3 HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5033/index.m3u8
+#EXTINF:-1,Е HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5035/index.m3u8
+#EXTINF:-1,Арсенал HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5044/index.m3u8
+#EXTINF:-1,Galaxy HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5045/index.m3u8
+#EXTINF:-1,568 HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5049/index.m3u8
+#EXTINF:-1,Победа HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5052/index.m3u8
+#EXTINF:-1,Романтичное HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5053/index.m3u8
+#EXTINF:-1,День Победы HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5054/index.m3u8
+#EXTINF:-1,Paramount Channel HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5063/index.m3u8
+#EXTINF:-1,Про Любовь HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2430/index.m3u8
+#EXTINF:-1,Сочи HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2433/index.m3u8
+#EXTINF:-1,Наш Кинопоказ HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2434/index.m3u8
+#EXTINF:-1,Блокбастер HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2436/index.m3u8
+#EXTINF:-1,Хит HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2438/index.m3u8
+#EXTINF:-1,Кинопоказ HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2439/index.m3u8
+#EXTINF:-1,Наше Мужское HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2440/index.m3u8
+#EXTINF:-1,Камеди HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2441/index.m3u8
+#EXTINF:-1,AIVA HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2442/index.m3u8
+#EXTINF:-1,VIP Serial HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2443/index.m3u8
+#EXTINF:-1,Paramount Comedy HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6000/index.m3u8
+#EXTINF:-1,Discovery Science HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6001/index.m3u8
+#EXTINF:-1,Viasat History HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6002/index.m3u8
+#EXTINF:-1,Amedia Hit HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6010/index.m3u8
+#EXTINF:-1,ProSieben HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6057/index.m3u8
+#EXTINF:-1,ProSieben Maxx HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6058/index.m3u8
+#EXTINF:-1,ZDF HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6059/index.m3u8
+#EXTINF:-1,AXN HD BR
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6162/index.m3u8
+#EXTINF:-1,BAND SP HD BR
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6159/index.m3u8
+#EXTINF:-1,BAND SPORTS HD BR
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6157/index.m3u8
+#EXTINF:-1,BAND NEWS HD BR
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6160/index.m3u8
+#EXTINF:-1,Comedy Central HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6081/index.m3u8
+#EXTINF:-1,Canal Discovery HD PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6102/index.m3u8
+#EXTINF:-1,CANAL+ FAMILY HD PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6105/index.m3u8
+#EXTINF:-1,Canal+ Film HD PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6101/index.m3u8
+#EXTINF:-1,beIN Movies HD2 ACTION
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6134/index.m3u8
+#EXTINF:-1,beIN Movies HD3 DRAMA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6135/index.m3u8
+#EXTINF:-1,beIN Movies HD4 FAMILY
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6136/index.m3u8
+#EXTINF:-1,beIN Series HD 1
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6138/index.m3u8
+#EXTINF:-1,beIN FX MOVIES HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6144/index.m3u8
+#EXTINF:-1,beIN Fox Movies HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6145/index.m3u8
+#EXTINF:-1,Canal+ HD FR
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6007/index.m3u8
+#EXTINF:-1,Canal+ Cinema HD FR
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6004/index.m3u8
+#EXTINF:-1,CINEMAX THRILLERMAX HD US
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6153/index.m3u8
+#EXTINF:-1,E! Entertainment HD RO
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6093/index.m3u8
+#EXTINF:-1,Eleven Sports 1 HD PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6083/index.m3u8
+#EXTINF:-1,Eleven Sports 2 HD PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6082/index.m3u8
+#EXTINF:-1,FOX COMEDY HD PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6106/index.m3u8
+#EXTINF:-1,FOX HD PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6108/index.m3u8
+#EXTINF:-1,FRANCE 2 HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6147/index.m3u8
+#EXTINF:-1,FRANCE 3 HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6148/index.m3u8
+#EXTINF:-1,FRANCE 4 HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6149/index.m3u8
+#EXTINF:-1,FRANCE 5 HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6150/index.m3u8
+#EXTINF:-1,FRANCE O HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6151/index.m3u8
+#EXTINF:-1,Kino Polska HD PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6088/index.m3u8
+#EXTINF:-1,LaLiga TV Bar HD ES
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6072/index.m3u8
+#EXTINF:-1,Movistar Cine Doc & Roll HD ES
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6077/index.m3u8
+#EXTINF:-1,Movistar Deportes 1 HD ES
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6070/index.m3u8
+#EXTINF:-1,Movistar F1 HD ES
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6071/index.m3u8
+#EXTINF:-1,Movistar Estrenos HD ES
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6078/index.m3u8
+#EXTINF:-1,Movistar Golf HD ES
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6075/index.m3u8
+#EXTINF:-1,Movistar LaLiga HD ES
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6073/index.m3u8
+#EXTINF:-1,Movistar Liga Campeones HD ES
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6074/index.m3u8
+#EXTINF:-1,Movistar Seriesmania HD ES
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6076/index.m3u8
+#EXTINF:-1,Polsat 2 HD PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6084/index.m3u8
+#EXTINF:-1,Polsat Cafe HD PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6085/index.m3u8
+#EXTINF:-1,Polsat Film HD PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6086/index.m3u8
+#EXTINF:-1,Polsat Play HD PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6087/index.m3u8
+#EXTINF:-1,RTL 2 HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6065/index.m3u8
+#EXTINF:-1,RTL HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6062/index.m3u8
+#EXTINF:-1,RTL Nitro HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6064/index.m3u8
+#EXTINF:-1,Spiegel Geschichte HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6091/index.m3u8
+#EXTINF:-1,SUPER POLSAT HD PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6109/index.m3u8
+#EXTINF:-1,Super RTL HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6063/index.m3u8
+#EXTINF:-1,Super Tennis HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6079/index.m3u8
+#EXTINF:-1,TENNIS HD US
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6096/index.m3u8
+#EXTINF:-1,TNT Comedy HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6111/index.m3u8
+#EXTINF:-1,TNT Film HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6089/index.m3u8
+#EXTINF:-1,TNT Film HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6110/index.m3u8
+#EXTINF:-1,TNT Serie HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6090/index.m3u8
+#EXTINF:-1,Syfy HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6092/index.m3u8
+#EXTINF:-1,TV3 Sport HD SK
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6080/index.m3u8
+#EXTINF:-1,Universal TV HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6094/index.m3u8
+#EXTINF:-1,Viasat Golf HD SK
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6068/index.m3u8
+#EXTINF:-1,Viasat Sport Premium HD SK
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6069/index.m3u8
+#EXTINF:-1,Kabel Eins HD DE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6067/index.m3u8
+#EXTINF:-1,Шокирующее HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6299/index.m3u8
+#EXTINF:-1,СТС HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6303/index.m3u8
+#EXTINF:-1,Авто Плюс HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6369/index.m3u8
+#EXTINF:-1,ТНТ4 HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6370/index.m3u8
+#EXTINF:-1,Spike HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6371/index.m3u8
+#EXTINF:-1,Viasat Explore HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6381/index.m3u8
+#EXTINF:-1,Киносемья HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6382/index.m3u8
+#EXTINF:-1,Киносвидание HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6383/index.m3u8
+#EXTINF:-1,Старт HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6384/index.m3u8
+#EXTINF:-1,Театр HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6385/index.m3u8
+#EXTINF:-1,TV 1000 Action HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6386/index.m3u8
+#EXTINF:-1,TV 1000 HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6387/index.m3u8
+#EXTINF:-1,TV 1000 Русское кино HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6388/index.m3u8
+#EXTINF:-1,Fox Life HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6389/index.m3u8
+#EXTINF:-1,Museum HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6390/index.m3u8
+#EXTINF:-1,HGTV HD RU
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6391/index.m3u8
+#EXTINF:-1,SHOT TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/526/index.m3u8
+#EXTINF:-1,Playboy
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/527/index.m3u8
+#EXTINF:-1,Русская Ночь
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/147/index.m3u8
+#EXTINF:-1,Brazzers TV Europe
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/910/index.m3u8
+#EXTINF:-1,Шалун
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/922/index.m3u8
+#EXTINF:-1,Candy
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/923/index.m3u8
+#EXTINF:-1,Penthouse TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1073/index.m3u8
+#EXTINF:-1,Blue Hustler
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1064/index.m3u8
+#EXTINF:-1,Barely legal
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/871/index.m3u8
+#EXTINF:-1,BRAZZERS TV Europe 2
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/872/index.m3u8
+#EXTINF:-1,Sexto Senso
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/875/index.m3u8
+#EXTINF:-1,SCT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/876/index.m3u8
+#EXTINF:-1,PRIVE
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/877/index.m3u8
+#EXTINF:-1,Passion XXX
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/878/index.m3u8
+#EXTINF:-1,Redlight HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/242/index.m3u8
+#EXTINF:-1,Private TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/243/index.m3u8
+#EXTINF:-1,Hustler HD Europe
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/244/index.m3u8
+#EXTINF:-1,Dorcel TV HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/245/index.m3u8
+#EXTINF:-1,Pink'o TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/874/index.m3u8
+#EXTINF:-1,Нюарт TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2057/index.m3u8
+#EXTINF:-1,FrenchLover
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2160/index.m3u8
+#EXTINF:-1,O-la-la
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2161/index.m3u8
+#EXTINF:-1,Vivid Red HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2162/index.m3u8
+#EXTINF:-1,Exxxotica HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2397/index.m3u8
+#EXTINF:-1,XXL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5009/index.m3u8
+#EXTINF:-1,Penthouse Passion
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5010/index.m3u8
+#EXTINF:-1,Penthouse Gold HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5011/index.m3u8
+#EXTINF:-1,Penthouse Quickies 1300k
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5012/index.m3u8
+#EXTINF:-1,Penthouse Quickies HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5013/index.m3u8
+#EXTINF:-1,Extasy 4K
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5014/index.m3u8
+#EXTINF:-1,Eroxxx HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5015/index.m3u8
+#EXTINF:-1,21 Sextury
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6164/index.m3u8
+#EXTINF:-1,A3 Bikini
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6165/index.m3u8
+#EXTINF:-1,Adult Time
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6166/index.m3u8
+#EXTINF:-1,Anal Red TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6167/index.m3u8
+#EXTINF:-1,Analized HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6168/index.m3u8
+#EXTINF:-1,AST TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6169/index.m3u8
+#EXTINF:-1,AST TV 2
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6170/index.m3u8
+#EXTINF:-1,Babes HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6171/index.m3u8
+#EXTINF:-1,Babes TV HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6172/index.m3u8
+#EXTINF:-1,Bang Bros HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6173/index.m3u8
+#EXTINF:-1,Bang!
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6174/index.m3u8
+#EXTINF:-1,Big Ass Adult TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6175/index.m3u8
+#EXTINF:-1,Big Dick Red TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6176/index.m3u8
+#EXTINF:-1,Big Tits Adult TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6177/index.m3u8
+#EXTINF:-1,Blacked HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6178/index.m3u8
+#EXTINF:-1,Blonde Adult TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6179/index.m3u8
+#EXTINF:-1,Blowjob Red TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6180/index.m3u8
+#EXTINF:-1,Brazzers eXXtra
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6181/index.m3u8
+#EXTINF:-1,Brazzers HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6182/index.m3u8
+#EXTINF:-1,Brunette Adult TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6183/index.m3u8
+#EXTINF:-1,cento x cento
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6184/index.m3u8
+#EXTINF:-1,Cherry Pimps
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6185/index.m3u8
+#EXTINF:-1,Club 17
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6186/index.m3u8
+#EXTINF:-1,Compilation Adult TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6187/index.m3u8
+#EXTINF:-1,Cuckold Red TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6188/index.m3u8
+#EXTINF:-1,Cum Louder
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6189/index.m3u8
+#EXTINF:-1,Cum4k
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6190/index.m3u8
+#EXTINF:-1,Daughter Swap
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6191/index.m3u8
+#EXTINF:-1,Day with a Pornstar
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6192/index.m3u8
+#EXTINF:-1,DDF Busty
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6193/index.m3u8
+#EXTINF:-1,DDF Network
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6194/index.m3u8
+#EXTINF:-1,Digital Desire HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6195/index.m3u8
+#EXTINF:-1,Digital Playground HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6196/index.m3u8
+#EXTINF:-1,Dorcel Club
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6197/index.m3u8
+#EXTINF:-1,Dusk
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6198/index.m3u8
+#EXTINF:-1,Evil Angel HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6199/index.m3u8
+#EXTINF:-1,Evolved Fights
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6200/index.m3u8
+#EXTINF:-1,Extasy HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6201/index.m3u8
+#EXTINF:-1,Fake Taxi HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6202/index.m3u8
+#EXTINF:-1,Fap TV 2
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6203/index.m3u8
+#EXTINF:-1,Fap TV 3
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6204/index.m3u8
+#EXTINF:-1,Fap TV 4
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6205/index.m3u8
+#EXTINF:-1,Fap TV Anal
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6206/index.m3u8
+#EXTINF:-1,Fap TV BBW
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6207/index.m3u8
+#EXTINF:-1,Fap TV Compilation
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6208/index.m3u8
+#EXTINF:-1,Fap TV Lesbian
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6209/index.m3u8
+#EXTINF:-1,Fap TV Parody
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6210/index.m3u8
+#EXTINF:-1,Fap TV Teens
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6211/index.m3u8
+#EXTINF:-1,FemJoy
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6212/index.m3u8
+#EXTINF:-1,Fetish Red TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6213/index.m3u8
+#EXTINF:-1,Gangbang Adult TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6214/index.m3u8
+#EXTINF:-1,Gay Adult TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6215/index.m3u8
+#EXTINF:-1,Got MYLF
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6216/index.m3u8
+#EXTINF:-1,Hands on Hardcore
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6217/index.m3u8
+#EXTINF:-1,Hard X
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6218/index.m3u8
+#EXTINF:-1,Hardcore Red TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6219/index.m3u8
+#EXTINF:-1,Hitzefrei HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6220/index.m3u8
+#EXTINF:-1,Holed
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6221/index.m3u8
+#EXTINF:-1,Hot and Mean
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6222/index.m3u8
+#EXTINF:-1,Hot Guys Fuck
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6223/index.m3u8
+#EXTINF:-1,Interracial Red TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6224/index.m3u8
+#EXTINF:-1,Japan HDV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6225/index.m3u8
+#EXTINF:-1,Latina Red TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6226/index.m3u8
+#EXTINF:-1,Lesbea
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6227/index.m3u8
+#EXTINF:-1,Lesbian Red TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6228/index.m3u8
+#EXTINF:-1,Lethal Hardcore
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6229/index.m3u8
+#EXTINF:-1,Little Asians HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6230/index.m3u8
+#EXTINF:-1,Live Cams Adult TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6231/index.m3u8
+#EXTINF:-1,Lust Cinema
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6232/index.m3u8
+#EXTINF:-1,MetArt HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6233/index.m3u8
+#EXTINF:-1,MILF Red TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6234/index.m3u8
+#EXTINF:-1,Monsters of Cock
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6235/index.m3u8
+#EXTINF:-1,MYLF TV HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6236/index.m3u8
+#EXTINF:-1,Naughty America
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6237/index.m3u8
+#EXTINF:-1,Nubiles TV HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6238/index.m3u8
+#EXTINF:-1,ox-ax HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6239/index.m3u8
+#EXTINF:-1,Pink Erotic 3
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6240/index.m3u8
+#EXTINF:-1,Pink Erotic 4
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6241/index.m3u8
+#EXTINF:-1,Playboy Plus
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6242/index.m3u8
+#EXTINF:-1,Pornstar Red TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6243/index.m3u8
+#EXTINF:-1,POV Adult TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6244/index.m3u8
+#EXTINF:-1,Private HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6245/index.m3u8
+#EXTINF:-1,Public Agent
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6246/index.m3u8
+#EXTINF:-1,Reality Kings HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6247/index.m3u8
+#EXTINF:-1,RK Prime
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6248/index.m3u8
+#EXTINF:-1,RK TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6249/index.m3u8
+#EXTINF:-1,Rough Adult TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6250/index.m3u8
+#EXTINF:-1,Russian Adult TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6251/index.m3u8
+#EXTINF:-1,Sex With Muslims
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6252/index.m3u8
+#EXTINF:-1,SexArt
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6253/index.m3u8
+#EXTINF:-1,sext 6 senso
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6254/index.m3u8
+#EXTINF:-1,SINematica
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6255/index.m3u8
+#EXTINF:-1,Teen Red TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6256/index.m3u8
+#EXTINF:-1,Threesome Red TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6257/index.m3u8
+#EXTINF:-1,Tiny4K
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6258/index.m3u8
+#EXTINF:-1,Trans Angels
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6259/index.m3u8
+#EXTINF:-1,True Amateurs
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6260/index.m3u8
+#EXTINF:-1,Tushy HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6261/index.m3u8
+#EXTINF:-1,TushyRAW
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6262/index.m3u8
+#EXTINF:-1,Visit-X TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6263/index.m3u8
+#EXTINF:-1,Vivid TV Europe
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6264/index.m3u8
+#EXTINF:-1,Vixen HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6265/index.m3u8
+#EXTINF:-1,We Live Together
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6266/index.m3u8
+#EXTINF:-1,White Boxxx
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6267/index.m3u8
+#EXTINF:-1,Wicked
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6268/index.m3u8
+#EXTINF:-1,Xpanded TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6269/index.m3u8
+#EXTINF:-1,Balkan Erotic
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6270/index.m3u8
+#EXTINF:-1,Bangerz
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6271/index.m3u8
+#EXTINF:-1,Emanuelle HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6272/index.m3u8
+#EXTINF:-1,Extreme
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6273/index.m3u8
+#EXTINF:-1,Fast Boyz
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6274/index.m3u8
+#EXTINF:-1,HOT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6275/index.m3u8
+#EXTINF:-1,HOT XXL HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6276/index.m3u8
+#EXTINF:-1,Hot Pleasure
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6277/index.m3u8
+#EXTINF:-1,Lesbian Affair
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6278/index.m3u8
+#EXTINF:-1,Oldtimer
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6279/index.m3u8
+#EXTINF:-1,Playboy LA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6280/index.m3u8
+#EXTINF:-1,Red XXX
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6281/index.m3u8
+#EXTINF:-1,Sexy Hot
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6282/index.m3u8
+#EXTINF:-1,Taboo
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6283/index.m3u8
+#EXTINF:-1,Venus
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6284/index.m3u8
+#EXTINF:-1,X-MO
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6285/index.m3u8
+#EXTINF:-1,XY Max HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6286/index.m3u8
+#EXTINF:-1,XY Mix HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6287/index.m3u8
+#EXTINF:-1,XY Plus HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6288/index.m3u8
+#EXTINF:-1,Erotic
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6289/index.m3u8
+#EXTINF:-1,Erotic 2
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6290/index.m3u8
+#EXTINF:-1,Erotic 3
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6291/index.m3u8
+#EXTINF:-1,Erotic 4
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6292/index.m3u8
+#EXTINF:-1,Erotic 6
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6293/index.m3u8
+#EXTINF:-1,Erotic 7
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6294/index.m3u8
+#EXTINF:-1,Erotic 8
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6295/index.m3u8
+#EXTINF:-1,Erox HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6296/index.m3u8
+#EXTINF:-1,MvH Hard
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6297/index.m3u8
+#EXTINF:-1,SuperOne HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6298/index.m3u8
+#EXTINF:-1,Искушение HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6300/index.m3u8
+#EXTINF:-1,Ню Арт HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6307/index.m3u8
+#EXTINF:-1,5 канал UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/945/index.m3u8
+#EXTINF:-1,FilmBox
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/948/index.m3u8
+#EXTINF:-1,24 Канал
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/951/index.m3u8
+#EXTINF:-1,ATR
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/952/index.m3u8
+#EXTINF:-1,Lale
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/953/index.m3u8
+#EXTINF:-1,Надiя ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/956/index.m3u8
+#EXTINF:-1,Перший Захiдний
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/957/index.m3u8
+#EXTINF:-1,UA:ЛЬВIВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/958/index.m3u8
+#EXTINF:-1,BBB TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/959/index.m3u8
+#EXTINF:-1,Центральный канал
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/963/index.m3u8
+#EXTINF:-1,Черноморская ТРК
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/965/index.m3u8
+#EXTINF:-1,112 Україна
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/924/index.m3u8
+#EXTINF:-1,EU Music
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/925/index.m3u8
+#EXTINF:-1,NewsOne
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/926/index.m3u8
+#EXTINF:-1,Eспресо TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/927/index.m3u8
+#EXTINF:-1,Мега
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/929/index.m3u8
+#EXTINF:-1,К2
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/930/index.m3u8
+#EXTINF:-1,К1
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/931/index.m3u8
+#EXTINF:-1,Квартал ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/932/index.m3u8
+#EXTINF:-1,Enter-фільм
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/933/index.m3u8
+#EXTINF:-1,Новий Канал
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/935/index.m3u8
+#EXTINF:-1,НТН
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/936/index.m3u8
+#EXTINF:-1,Інтер
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/937/index.m3u8
+#EXTINF:-1,Пiксель ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/938/index.m3u8
+#EXTINF:-1,Первый городской (Кривой Рог)
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/939/index.m3u8
+#EXTINF:-1,ID Fashion
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/940/index.m3u8
+#EXTINF:-1,Культура
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/941/index.m3u8
+#EXTINF:-1,Телевсесвiт
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/942/index.m3u8
+#EXTINF:-1,Медiаiнформ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/943/index.m3u8
+#EXTINF:-1,Skrypin.UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/944/index.m3u8
+#EXTINF:-1,ТРК Алекс
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/967/index.m3u8
+#EXTINF:-1,Глас
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/972/index.m3u8
+#EXTINF:-1,Правда Тут
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/973/index.m3u8
+#EXTINF:-1,Тернопіль 1
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5041/index.m3u8
+#EXTINF:-1,Рада
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/976/index.m3u8
+#EXTINF:-1,MAXXI TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/977/index.m3u8
+#EXTINF:-1,News Network
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/978/index.m3u8
+#EXTINF:-1,Южная волна
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/979/index.m3u8
+#EXTINF:-1,Первый городской
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/981/index.m3u8
+#EXTINF:-1,СК1
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/982/index.m3u8
+#EXTINF:-1,Перший дiловий
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/985/index.m3u8
+#EXTINF:-1,1+1 International
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/987/index.m3u8
+#EXTINF:-1,Громадське
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/988/index.m3u8
+#EXTINF:-1,BOLT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/991/index.m3u8
+#EXTINF:-1,Star Cinema
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/992/index.m3u8
+#EXTINF:-1,Чернiвецький Промiнь
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1004/index.m3u8
+#EXTINF:-1,UA:Перший
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1016/index.m3u8
+#EXTINF:-1,UA:Крым
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1017/index.m3u8
+#EXTINF:-1,MostVideo.TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1027/index.m3u8
+#EXTINF:-1,OBOZ TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1028/index.m3u8
+#EXTINF:-1,TV5
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1030/index.m3u8
+#EXTINF:-1,Star Family
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1042/index.m3u8
+#EXTINF:-1,Интер+
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1047/index.m3u8
+#EXTINF:-1,O-TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1055/index.m3u8
+#EXTINF:-1,Телеканал Рибалка
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1058/index.m3u8
+#EXTINF:-1,1+1
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/994/index.m3u8
+#EXTINF:-1,2+2
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/995/index.m3u8
+#EXTINF:-1,UKRAINE 1
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/997/index.m3u8
+#EXTINF:-1,Бiгудi
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/989/index.m3u8
+#EXTINF:-1,НТА
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/990/index.m3u8
+#EXTINF:-1,ТВА
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/998/index.m3u8
+#EXTINF:-1,Вiнтаж ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/999/index.m3u8
+#EXTINF:-1,ZOOM
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1000/index.m3u8
+#EXTINF:-1,ПлюсПлюс
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1002/index.m3u8
+#EXTINF:-1,Малятко ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1003/index.m3u8
+#EXTINF:-1,Галичина
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1005/index.m3u8
+#EXTINF:-1,Еко TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1006/index.m3u8
+#EXTINF:-1,ZIK HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1007/index.m3u8
+#EXTINF:-1,ZIK
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1008/index.m3u8
+#EXTINF:-1,ТЕТ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1009/index.m3u8
+#EXTINF:-1,Україна
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1011/index.m3u8
+#EXTINF:-1,HDFASHION&LifeStyle
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1012/index.m3u8
+#EXTINF:-1,Сонце
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1013/index.m3u8
+#EXTINF:-1,NLO TV2
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1014/index.m3u8
+#EXTINF:-1,Прямий HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1015/index.m3u8
+#EXTINF:-1,КРТ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1019/index.m3u8
+#EXTINF:-1,ЧП.INFO
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1020/index.m3u8
+#EXTINF:-1,Україна 24 HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1022/index.m3u8
+#EXTINF:-1,УНІАН
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1023/index.m3u8
+#EXTINF:-1,UA|TV HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1024/index.m3u8
+#EXTINF:-1,36.6 TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1025/index.m3u8
+#EXTINF:-1,Milady Television
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1026/index.m3u8
+#EXTINF:-1,BOUTIQUE TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1029/index.m3u8
+#EXTINF:-1,NLO TV1
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1032/index.m3u8
+#EXTINF:-1,7 канал
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1035/index.m3u8
+#EXTINF:-1,Music Box UA HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1036/index.m3u8
+#EXTINF:-1,ТРК Круг
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1040/index.m3u8
+#EXTINF:-1,ТРК Київ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1045/index.m3u8
+#EXTINF:-1,8 Канал UA HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1046/index.m3u8
+#EXTINF:-1,Чернiвцi
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1072/index.m3u8
+#EXTINF:-1,24 Канал HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1063/index.m3u8
+#EXTINF:-1,4 канал
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1039/index.m3u8
+#EXTINF:-1,Футбол 1
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1109/index.m3u8
+#EXTINF:-1,Футбол 2
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1110/index.m3u8
+#EXTINF:-1,UA:Донбас
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5038/index.m3u8
+#EXTINF:-1,Мариупольское ТВ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5039/index.m3u8
+#EXTINF:-1,33 канал
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5040/index.m3u8
+#EXTINF:-1,Тернопіль 1
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/975/index.m3u8
+#EXTINF:-1,Перший Західний
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5042/index.m3u8
+#EXTINF:-1,Vintage TV UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6009/index.m3u8
+#EXTINF:-1,ICTV UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6302/index.m3u8
+#EXTINF:-1,ICTV UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6339/index.m3u8
+#EXTINF:-1,СТБ UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6304/index.m3u8
+#EXTINF:-1,Интер UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6305/index.m3u8
+#EXTINF:-1,АТР UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6306/index.m3u8
+#EXTINF:-1,XSPORT UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6309/index.m3u8
+#EXTINF:-1,Эспресо ТВ HD UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6321/index.m3u8
+#EXTINF:-1,XSPORT UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6331/index.m3u8
+#EXTINF:-1,1+1 UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6310/index.m3u8
+#EXTINF:-1,Эспресо TV UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6311/index.m3u8
+#EXTINF:-1,Пиксель UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6312/index.m3u8
+#EXTINF:-1,Спорт-1 UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6313/index.m3u8
+#EXTINF:-1,Спорт-2 UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6314/index.m3u8
+#EXTINF:-1,112 Украина HD UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6315/index.m3u8
+#EXTINF:-1,1+1 International UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6316/index.m3u8
+#EXTINF:-1,1+1 International UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6329/index.m3u8
+#EXTINF:-1,1+1 HD UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6317/index.m3u8
+#EXTINF:-1,ТРК Украина HD UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6318/index.m3u8
+#EXTINF:-1,Перший Т2 UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6319/index.m3u8
+#EXTINF:-1,Индиго UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6320/index.m3u8
+#EXTINF:-1,Болт HD UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6322/index.m3u8
+#EXTINF:-1,Lale HD UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6323/index.m3u8
+#EXTINF:-1,UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6324/index.m3u8
+#EXTINF:-1,Star Cinema HD UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6325/index.m3u8
+#EXTINF:-1,Star Family HD UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6326/index.m3u8
+#EXTINF:-1,8 канал HD UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6327/index.m3u8
+#EXTINF:-1,4 канал HD UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6328/index.m3u8
+#EXTINF:-1,Бігуді UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6330/index.m3u8
+#EXTINF:-1,NIKI Kids HD UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6332/index.m3u8
+#EXTINF:-1,NIKI Junior HD UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6333/index.m3u8
+#EXTINF:-1,М1 HD UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6334/index.m3u8
+#EXTINF:-1,М2 HD UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6335/index.m3u8
+#EXTINF:-1,PRO Все UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6336/index.m3u8
+#EXTINF:-1,Lale UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6337/index.m3u8
+#EXTINF:-1,Максi ТВ UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6338/index.m3u8
+#EXTINF:-1,Новий канал UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6340/index.m3u8
+#EXTINF:-1,Кус Кус HD UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6341/index.m3u8
+#EXTINF:-1,2+2 UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6342/index.m3u8
+#EXTINF:-1,2+2 HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6378/index.m3u8
+#EXTINF:-1,НЛО UA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6343/index.m3u8
+#EXTINF:-1,НЛО ТВ HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6372/index.m3u8
+#EXTINF:-1,Индиго ТВ HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6374/index.m3u8
+#EXTINF:-1,ОЦЕ HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6375/index.m3u8
+#EXTINF:-1,UA:Перший HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6376/index.m3u8
+#EXTINF:-1,ТЕТ HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6377/index.m3u8
+#EXTINF:-1,ПлюсПлюс HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6379/index.m3u8
+#EXTINF:-1,Оце
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6380/index.m3u8
+#EXTINF:-1,Food Network
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1107/index.m3u8
+#EXTINF:-1,Ion Television
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/901/index.m3u8
+#EXTINF:-1,NYCTV Life
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/902/index.m3u8
+#EXTINF:-1,CBS New York
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/903/index.m3u8
+#EXTINF:-1,Hallmark Movies & Mysteries HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1075/index.m3u8
+#EXTINF:-1,Telemundo
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1080/index.m3u8
+#EXTINF:-1,NBC
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1081/index.m3u8
+#EXTINF:-1,Disney XD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1082/index.m3u8
+#EXTINF:-1,AMC US
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1083/index.m3u8
+#EXTINF:-1,HGTV HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1084/index.m3u8
+#EXTINF:-1,tru TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1085/index.m3u8
+#EXTINF:-1,MAVTV HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1074/index.m3u8
+#EXTINF:-1,ABC HD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1087/index.m3u8
+#EXTINF:-1,Fox 5 WNYW
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1086/index.m3u8
+#EXTINF:-1,My9NJ
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1088/index.m3u8
+#EXTINF:-1,Live Well Network
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1089/index.m3u8
+#EXTINF:-1,MOTORTREND
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1091/index.m3u8
+#EXTINF:-1,BBC America
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1092/index.m3u8
+#EXTINF:-1,WPIX-TV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1090/index.m3u8
+#EXTINF:-1,THIRTEEN
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1093/index.m3u8
+#EXTINF:-1,WLIW21
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1094/index.m3u8
+#EXTINF:-1,NJTV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1095/index.m3u8
+#EXTINF:-1,MeTV
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1096/index.m3u8
+#EXTINF:-1,SBN
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1097/index.m3u8
+#EXTINF:-1,WMBC Digital Television
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1098/index.m3u8
+#EXTINF:-1,Univision
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1099/index.m3u8
+#EXTINF:-1,UniMAS
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1100/index.m3u8
+#EXTINF:-1,USA
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1101/index.m3u8
+#EXTINF:-1,TNT
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1102/index.m3u8
+#EXTINF:-1,TBS
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1103/index.m3u8
+#EXTINF:-1,TLC
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1105/index.m3u8
+#EXTINF:-1,FXM en
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1106/index.m3u8
+#EXTINF:-1,A&E
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/1108/index.m3u8
+#EXTINF:-1,Первый FHD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2402/index.m3u8
+#EXTINF:-1,КХЛ FHD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2403/index.m3u8
+#EXTINF:-1,РБК FHD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2404/index.m3u8
+#EXTINF:-1,Моторспорт ТВ FHD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2405/index.m3u8
+#EXTINF:-1,Матч! Игра FHD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2406/index.m3u8
+#EXTINF:-1,Матч! Футбол 1 FHD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2407/index.m3u8
+#EXTINF:-1,Матч! Футбол 3 FHD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2408/index.m3u8
+#EXTINF:-1,Россия FHD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2409/index.m3u8
+#EXTINF:-1,Премиальное FHD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2410/index.m3u8
+#EXTINF:-1,Fashion TV FHD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2411/index.m3u8
+#EXTINF:-1,Fashion One FHD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2412/index.m3u8
+#EXTINF:-1,Матч! FHD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2413/index.m3u8
+#EXTINF:-1,Матч! Премьер FHD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2414/index.m3u8
+#EXTINF:-1,Nat Geo Wild FHD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2415/index.m3u8
+#EXTINF:-1,National Geographic FHD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2416/index.m3u8
+#EXTINF:-1,ТНТ FHD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2417/index.m3u8
+#EXTINF:-1,ЕДА Премиум FHD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2418/index.m3u8
+#EXTINF:-1,Food Network FHD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2419/index.m3u8
+#EXTINF:-1,Матч! Футбол 2 FHD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/2420/index.m3u8
+#EXTINF:-1,DTX HD orig
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5064/index.m3u8
+#EXTINF:-1,VIASAT Sport HD orig
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5065/index.m3u8
+#EXTINF:-1,Eurosport Gold HD orig
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5066/index.m3u8
+#EXTINF:-1,UFC HD orig
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5067/index.m3u8
+#EXTINF:-1,Setanta Sports Ukraine HD orig
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5068/index.m3u8
+#EXTINF:-1,Setanta Sports HD orig
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5069/index.m3u8
+#EXTINF:-1,Setanta Sports 2 orig
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5070/index.m3u8
+#EXTINF:-1,Матч! Футбол 3 HD 50 orig
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5071/index.m3u8
+#EXTINF:-1,МАТЧ! Футбол 1 HD 50 orig
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5072/index.m3u8
+#EXTINF:-1,Футбол 1 HD orig
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5073/index.m3u8
+#EXTINF:-1,Футбол 2 HD orig
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5074/index.m3u8
+#EXTINF:-1,Eurosport 1 HD orig
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5075/index.m3u8
+#EXTINF:-1,Eurosport 2 North-East HD orig
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5076/index.m3u8
+#EXTINF:-1,Xsport HD orig
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5077/index.m3u8
+#EXTINF:-1,Viasat Fotboll HD SK orig
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5078/index.m3u8
+#EXTINF:-1,VIP Premiere orig
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5079/index.m3u8
+#EXTINF:-1,VIP Comedy orig
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5080/index.m3u8
+#EXTINF:-1,VIP Megahit orig
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5081/index.m3u8
+#EXTINF:-1,Дом кино Премиум HD orig
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5082/index.m3u8
+#EXTINF:-1,Футбол 3 HD orig
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5083/index.m3u8
+#EXTINF:-1,Canal+ Sport FHD PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6098/index.m3u8
+#EXTINF:-1,Canal+ FHD PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6100/index.m3u8
+#EXTINF:-1,Canal + Seriale FHD PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6104/index.m3u8
+#EXTINF:-1,Canal+ Discovery FHD PL
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/6103/index.m3u8
+#EXTINF:-1,Ultra HD Cinema 4K
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/4000/index.m3u8
+#EXTINF:-1,TRT 4K
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/4001/index.m3u8
+#EXTINF:-1,Home 4K
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/4002/index.m3u8
+#EXTINF:-1,Наша Сибирь 4K
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/4003/index.m3u8
+#EXTINF:-1,Eurosport 4K
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/4004/index.m3u8
+#EXTINF:-1,FTV UHD
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/4005/index.m3u8
+#EXTINF:-1,Insight UHD 4K
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5000/index.m3u8
+#EXTINF:-1,Love Nature 4K
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5001/index.m3u8
+#EXTINF:-1,MyZen TV 4K
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5002/index.m3u8
+#EXTINF:-1,Русский Экстрим UHD 4K
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5003/index.m3u8
+#EXTINF:-1,Кино UHD 4K
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5004/index.m3u8
+#EXTINF:-1,Сериал UHD 4K
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5005/index.m3u8
+#EXTINF:-1,Stingray Festival 4K
+http://22b810d1.akadatel.com/iptv/VHTY3X66K453TT/5006/index.m3u8
